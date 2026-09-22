@@ -1,0 +1,613 @@
+{
+    "last_trend_time": 1790095355.7751267,
+    "trends": [
+        {
+            "adult": false,
+            "backdrop_path": "/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+            "id": 1607127,
+            "title": "One Last Shot",
+            "original_title": "One Last Shot",
+            "overview": "",
+            "poster_path": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 2.8194,
+            "release_date": "2026-09-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 6,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+            "id": 1423191,
+            "title": "Resident Evil",
+            "original_title": "Resident Evil",
+            "overview": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui.",
+            "poster_path": "/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                878,
+                12
+            ],
+            "popularity": 607.7799,
+            "release_date": "2026-09-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 295,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
+            "id": 445466,
+            "title": "Idiots",
+            "original_title": "Idiots",
+            "overview": "",
+            "poster_path": "/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "popularity": 9.1919,
+            "release_date": "2026-08-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 9,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mqO2Q8BeCuESJUVZgwyWRDa9Ux9.jpg",
+            "id": 675871,
+            "title": "Super Troopers 3",
+            "original_title": "Super Troopers 3",
+            "overview": "",
+            "poster_path": "/iZK7dZXAZEqAt5TYionYretrgWg.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80,
+                9648
+            ],
+            "popularity": 13.8393,
+            "release_date": "2026-08-06",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 19,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/hyN1E14gNxx8biNBOv1daJrmGkK.jpg",
+            "id": 1477712,
+            "title": "Ice Cream Man",
+            "original_title": "Ice Cream Man",
+            "overview": "Un'idilliaca cittadina di villeggiatura estiva precipita nell\u2019orrore, quando un gelataio offre ai bambini dolci prelibatezze dalle conseguenze terrificanti.",
+            "poster_path": "/lNBxToxHWrzmkqeFnf1XADUTxQq.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                35,
+                53
+            ],
+            "popularity": 21.8014,
+            "release_date": "2026-08-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 4.633,
+            "vote_count": 64,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 1408162,
+            "title": "\u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0bcd & \u0b9a\u0ba9\u0bcd\u0bb8\u0bcd",
+            "original_language": "ta",
+            "original_title": "\u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0bcd & \u0b9a\u0ba9\u0bcd\u0bb8\u0bcd",
+            "overview": "",
+            "popularity": 106.3914,
+            "poster_path": "/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
+            "release_date": "2026-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 28,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c4U96GrPRfnNrS01mBtqnocvlLJ.jpg",
+            "genre_ids": [
+                80,
+                28,
+                53
+            ],
+            "id": 1621552,
+            "title": "La captura",
+            "original_language": "es",
+            "original_title": "La captura",
+            "overview": "Messico, 2016. Due poliziotti incrociano l'obiettivo di un'operazione militare finita male. Si tratta di uno dei killer pi\u00f9 pericolosi al mondo al soldo di un cartello criminale.",
+            "popularity": 98.9099,
+            "poster_path": "/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
+            "release_date": "2026-08-21",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.796,
+            "vote_count": 782,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4kbkq887XNT85d6nJonCnmXDWor.jpg",
+            "genre_ids": [
+                10749,
+                14,
+                35
+            ],
+            "id": 6435,
+            "title": "Amori & incantesimi",
+            "original_language": "en",
+            "original_title": "Practical Magic",
+            "overview": "Le donne della famiglia Owens sono delle deliziose streghe, ma una maledizione fa morire tutti gli uomini di cui si innamorano.",
+            "popularity": 70.1179,
+            "poster_path": "/nQnvBhl8YMrtaKMb6juzNE4znXu.jpg",
+            "release_date": "1998-10-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.809,
+            "vote_count": 1957,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+            "genre_ids": [
+                12,
+                18,
+                878
+            ],
+            "id": 157336,
+            "title": "Interstellar",
+            "original_language": "en",
+            "original_title": "Interstellar",
+            "overview": "In seguito alla scoperta di un cunicolo spazio-temporale, un gruppo di esploratori si avventura in una eroica missione per tentare di superare i limiti della conquista spaziale e oltrepassare le distanze che fino a quel momento avevano reso impraticabili i viaggi interstellari. L'obiettivo \u00e8 quello di trovare nuovi luoghi dove coltivare il granoturco, l'unica coltivazione rimasta dopo un drastico cambiamento climatico che ha colpito soprattutto l'agricoltura.",
+            "popularity": 72.8231,
+            "poster_path": "/bMKiLh0mES4Uiococ240lbbTGXQ.jpg",
+            "release_date": "2014-11-05",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.488,
+            "vote_count": 41218,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 860508,
+            "title": "L'uomo dei sussurri",
+            "original_language": "en",
+            "original_title": "The Whisper Man",
+            "overview": "Dopo la scomparsa del figlio di otto anni, uno scrittore di gialli vedovo chiede aiuto al padre, un ex detective della polizia ormai in pensione con cui aveva interrotto i rapporti, e scopre che il rapimento \u00e8 collegato al vecchio caso di un serial killer condannato noto come \"L'uomo dei sussurri\".",
+            "popularity": 68.8995,
+            "poster_path": "/yghwNwvMjoHOm4TXHDmqSynbbMv.jpg",
+            "release_date": "2026-08-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.86,
+            "vote_count": 768,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 299536,
+            "title": "Avengers: Infinity War",
+            "original_language": "en",
+            "original_title": "Avengers: Infinity War",
+            "overview": "Dalla nascita dell'universo, sei gemme elementari rappresentano i vari aspetti fondamentali del cosmo e chi le possedesse tutte raggiungerebbe l'onnipotenza. \u00c8 questo l'obiettivo di Thanos, il titano pazzo che ritiene se stesso come un correttivo alla sovrappopolazione universale e pensa di essere una misura necessaria e giusta, persino benevola, mentre agli altri il suo operato appare, correttamente, come una serie di genocidi. Gli Avengers e i Guardiani della Galassia dovranno cercare di fermarlo, ma come se non bastasse la sua inarrestabile potenza ci sono dalla sua armate aliene e quattro letali \"figli\", ognuno deciso a consegnargli le gemme dell'infinito.",
+            "popularity": 93.52,
+            "poster_path": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
+            "release_date": "2018-04-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.243,
+            "vote_count": 32953,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ysLlsAxwgNSxBWHCgTKJrmjxpRQ.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 1228710,
+            "title": "Star Wars: The Mandalorian and Grogu",
+            "original_language": "en",
+            "original_title": "The Mandalorian and Grogu",
+            "overview": "L\u2019Impero \u00e8 caduto e i signori della guerra imperiali sono ancora sparsi per la galassia. Mentre la nascente Nuova Repubblica cerca di proteggere tutto ci\u00f2 per cui l\u2019Alleanza Ribelle ha combattuto, ha arruolato l\u2019aiuto del leggendario cacciatore di taglie mandaloriano Din Djarin e del suo giovane apprendista Grogu.",
+            "popularity": 87.0388,
+            "poster_path": "/4v442cNP1nOhjjmf2l4Id2oWeR.jpg",
+            "release_date": "2026-05-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.48,
+            "vote_count": 1691,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+            "genre_ids": [
+                12,
+                878,
+                28
+            ],
+            "id": 299534,
+            "title": "Avengers: Endgame",
+            "original_language": "en",
+            "original_title": "Avengers: Endgame",
+            "overview": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo \u00e8 stata dimezzata e tra i caduti c'\u00e8 stato anche Nick Fury. Ma prima di morire questi \u00e8 riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos per\u00f2 non si pu\u00f2 risolvere con la semplice superforza e i colpi di energia...",
+            "popularity": 86.1021,
+            "poster_path": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
+            "release_date": "2019-04-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.244,
+            "vote_count": 28736,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iN41Ccw4DctL8npfmYg1j5Tr1eb.jpg",
+            "genre_ids": [
+                878,
+                12,
+                14
+            ],
+            "id": 83533,
+            "title": "Avatar: Fuoco e cenere",
+            "original_language": "en",
+            "original_title": "Avatar: Fire and Ash",
+            "overview": "In seguito alla devastante guerra contro la RDA e alla perdita del loro figlio maggiore, Jake Sully e Neytiri affrontano una nuova minaccia su Pandora: il Popolo della Cenere, una trib\u00f9 Na'vi violenta e assetata di potere guidata dagli spietati Varang. La famiglia di Jake deve lottare per la propria sopravvivenza e per il futuro di Pandora in un conflitto che li spinge ai loro limiti emotivi e fisici.",
+            "popularity": 78.4649,
+            "poster_path": "/kvivMhuEuzXuaj0UMjAAmrXVvWn.jpg",
+            "release_date": "2025-12-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.642,
+            "vote_count": 4357,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 634649,
+            "title": "Spider-Man: No Way Home",
+            "original_language": "en",
+            "original_title": "Spider-Man: No Way Home",
+            "overview": "In seguito agli eventi di Spider-Man: Far from Home, la vita di Peter Parker viene stravolta dopo che Mysterio rivela al mondo la sua identit\u00e0. Peter chiede aiuto a Stephen Strange affinch\u00e9 usi la magia per far scordare a tutti la sua identit\u00e0. Ma l'incantesimo non va come previsto e Peter si ritrova a dover affrontare nemici da altri universi e a scoprire cosa significa davvero essere Spider-Man.",
+            "popularity": 68.8563,
+            "poster_path": "/xLnZ0DB06H0MuGXcF0uhJxr6b8y.jpg",
+            "release_date": "2021-12-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.947,
+            "vote_count": 23159,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/i65y7cMae36K0giN0GRaMjAHUru.jpg",
+            "genre_ids": [
+                10749,
+                53
+            ],
+            "id": 1440098,
+            "title": "Marfil - gli opposti",
+            "original_language": "es",
+            "original_title": "Enfrentados: Marfil",
+            "overview": "La vita a New York di Marfil, figlia di un uomo d'affari spagnolo, viene stravolta quando \u00e8 rapita e liberata senza spiegazione. Suo padre assume Sebasti\u00e1n Moore come sua guardia del corpo. I due vengono obbligati a passare ogni minuto insieme e tra loro si accende una passione inevitabile in un mondo in cui niente \u00e8 ci\u00f2 che sembra. Tratto dal romanzo di Mercedes Ron, autrice della saga Culpables.",
+            "popularity": 160.0298,
+            "poster_path": "/w4g7RSF7YcH1pvSv67CgMwFVVVY.jpg",
+            "release_date": "2026-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.662,
+            "vote_count": 108,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jzBWExXacS33rMQ2zLBrqIVweyG.jpg",
+            "genre_ids": [
+                53,
+                28
+            ],
+            "id": 1386315,
+            "title": "The Runner",
+            "original_language": "en",
+            "original_title": "The Runner",
+            "overview": "La vita di Maia Marten, una brillante avvocata londinese, viene scossa da una telefonata durante la sua corsa mattutina. Suo figlio \u00e8 stato rapito. Per riaverlo, deve continuare a correre, obbedire a delle regole spietate e non fidarsi di nessuno. Ogni secondo misura fin dove una madre pu\u00f2 spingersi per salvare il proprio figlio.",
+            "popularity": 133.5525,
+            "poster_path": "/e1LYkXpVLTNOf6HKcizbLPmMQb8.jpg",
+            "release_date": "2026-09-03",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.748,
+            "vote_count": 549,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+            "genre_ids": [
+                878,
+                12
+            ],
+            "id": 687163,
+            "title": "L'ultima missione: Project Hail Mary",
+            "original_language": "en",
+            "original_title": "Project Hail Mary",
+            "overview": "L\u2019insegnante di scienze Ryland Grace si sveglia su un\u2019astronave lontano anni luce da casa senza alcun ricordo di chi sia o di come sia arrivato l\u00ec. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l\u2019enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovr\u00e0 fare affidamento sulle sue conoscenze scientifiche e sulle sue capacit\u00e0 di pensare fuori dagli schemi per salvare dall\u2019estinzione la vita sulla Terra, mentre un'inaspettata amicizia gli far\u00e0 capire che non \u00e8 solo in questa impresa.",
+            "popularity": 103.186,
+            "poster_path": "/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
+            "release_date": "2026-03-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.64,
+            "vote_count": 7909,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "id": 1516698,
+            "title": "The Last Sunrise. L'estate delle prime volte",
+            "original_language": "en",
+            "original_title": "The Last Sunrise",
+            "overview": "Basato sull'appassionante romanzo, The Last Sunrise. L'Estate Delle Prime Volte segue Ry, una studentessa affetta da una malattia cronica, durante una vacanza a Maiorca con la madre. L'inaspettata storia con Juli\u00e1n le insegna a vivere il momento, ma il peggioramento della malattia e vecchi segreti di famiglia rischiano di distruggere tutto in fretta.",
+            "popularity": 99.2471,
+            "poster_path": "/w4e0I3cLcEoYmWSDL2uCNSIJ5Dj.jpg",
+            "release_date": "2026-08-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.774,
+            "vote_count": 186,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "id": 755898,
+            "title": "La guerra dei mondi",
+            "original_language": "en",
+            "original_title": "War of the Worlds",
+            "overview": "",
+            "popularity": 92.7059,
+            "poster_path": "/vfYUXnQ1sNXxIm0DDiU6Vdmhz7i.jpg",
+            "release_date": "2025-07-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 4.031,
+            "vote_count": 1143,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
+        }
+    ],
+    "m3u_data": {
+        "1607127": [
+            {
+                "ep_id": "1607127",
+                "ep_title": "One Last Shot (2026) - \u2b50 8.5",
+                "url": "https://vixcloud.co/playlist/789860?token=3412e0ceb325a8cbd37377753c321f9a&expires=1795279357&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+                "plot": ""
+            }
+        ],
+        "1423191": [
+            {
+                "ep_id": "1423191",
+                "ep_title": "Resident Evil (2026) - \u2b50 7.4",
+                "url": "https://vixcloud.co/playlist/788362?token=c36452be2051c83506151e8743c7f55d&expires=1795279359&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
+                "plot": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui."
+            }
+        ],
+        "1621552": [
+            {
+                "ep_id": "1621552",
+                "ep_title": "La captura (2026) - \u2b50 8.8",
+                "url": "https://vixcloud.co/playlist/780955?token=9f75c05a5871934ca17ed85ec0083d3f&expires=1795279365&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
+                "plot": "Messico, 2016. Due poliziotti incrociano l'obiettivo di un'operazione militare finita male. Si tratta di uno dei killer pi\u00f9 pericolosi al mondo al soldo di un cartello criminale."
+            }
+        ],
+        "6435": [
+            {
+                "ep_id": "6435",
+                "ep_title": "Amori & incantesimi (1998) - \u2b50 6.8",
+                "url": "https://vixcloud.co/playlist/786439?token=1087b7017e08e544256bfeba7f4fd4d0&expires=1795279366&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/nQnvBhl8YMrtaKMb6juzNE4znXu.jpg",
+                "plot": "Le donne della famiglia Owens sono delle deliziose streghe, ma una maledizione fa morire tutti gli uomini di cui si innamorano."
+            }
+        ],
+        "157336": [
+            {
+                "ep_id": "157336",
+                "ep_title": "Interstellar (2014) - \u2b50 8.5",
+                "url": "https://vixcloud.co/playlist/786670?b=1&token=f99899de6fa05d1283ae6126d90e01f7&expires=1795279368&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/bMKiLh0mES4Uiococ240lbbTGXQ.jpg",
+                "plot": "In seguito alla scoperta di un cunicolo spazio-temporale, un gruppo di esploratori si avventura in una eroica missione per tentare di superare i limiti della conquista spaziale e oltrepassare le distanze che fino a quel momento avevano reso impraticabili i viaggi interstellari. L'obiettivo \u00e8 quello di trovare nuovi luoghi dove coltivare il granoturco, l'unica coltivazione rimasta dopo un drastico cambiamento climatico che ha colpito soprattutto l'agricoltura."
+            }
+        ],
+        "860508": [
+            {
+                "ep_id": "860508",
+                "ep_title": "L'uomo dei sussurri (2026) - \u2b50 6.9",
+                "url": "https://vixcloud.co/playlist/783087?token=1e27404557e01b12c99f9b767b31bcd4&expires=1795279369&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/yghwNwvMjoHOm4TXHDmqSynbbMv.jpg",
+                "plot": "Dopo la scomparsa del figlio di otto anni, uno scrittore di gialli vedovo chiede aiuto al padre, un ex detective della polizia ormai in pensione con cui aveva interrotto i rapporti, e scopre che il rapimento \u00e8 collegato al vecchio caso di un serial killer condannato noto come 'L'uomo dei sussurri'."
+            }
+        ],
+        "299536": [
+            {
+                "ep_id": "299536",
+                "ep_title": "Avengers: Infinity War (2018) - \u2b50 8.2",
+                "url": "https://vixcloud.co/playlist/262859?b=1&token=1e8d144b554ae7c15b9c9b7edaf114fb&expires=1795279370&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
+                "plot": "Dalla nascita dell'universo, sei gemme elementari rappresentano i vari aspetti fondamentali del cosmo e chi le possedesse tutte raggiungerebbe l'onnipotenza. \u00c8 questo l'obiettivo di Thanos, il titano pazzo che ritiene se stesso come un correttivo alla sovrappopolazione universale e pensa di essere una misura necessaria e giusta, persino benevola, mentre agli altri il suo operato appare, correttamente, come una serie di genocidi. Gli Avengers e i Guardiani della Galassia dovranno cercare di fermarlo, ma come se non bastasse la sua inarrestabile potenza ci sono dalla sua armate aliene e quattro letali 'figli', ognuno deciso a consegnargli le gemme dell'infinito."
+            }
+        ],
+        "1228710": [
+            {
+                "ep_id": "1228710",
+                "ep_title": "Star Wars: The Mandalorian and Grogu (2026) - \u2b50 7.5",
+                "url": "https://vixcloud.co/playlist/775410?token=751beab4c94f2e9fc25e12694eb90d28&expires=1795279372&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/4v442cNP1nOhjjmf2l4Id2oWeR.jpg",
+                "plot": "L\u2019Impero \u00e8 caduto e i signori della guerra imperiali sono ancora sparsi per la galassia. Mentre la nascente Nuova Repubblica cerca di proteggere tutto ci\u00f2 per cui l\u2019Alleanza Ribelle ha combattuto, ha arruolato l\u2019aiuto del leggendario cacciatore di taglie mandaloriano Din Djarin e del suo giovane apprendista Grogu."
+            }
+        ],
+        "299534": [
+            {
+                "ep_id": "299534",
+                "ep_title": "Avengers: Endgame (2019) - \u2b50 8.2",
+                "url": "https://vixcloud.co/playlist/649865?b=1&token=221d725144da921b55ac3ab94644d6c8&expires=1795279373&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
+                "plot": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo \u00e8 stata dimezzata e tra i caduti c'\u00e8 stato anche Nick Fury. Ma prima di morire questi \u00e8 riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos per\u00f2 non si pu\u00f2 risolvere con la semplice superforza e i colpi di energia..."
+            }
+        ],
+        "83533": [
+            {
+                "ep_id": "83533",
+                "ep_title": "Avatar: Fuoco e cenere (2025) - \u2b50 7.6",
+                "url": "https://vixcloud.co/playlist/694871?b=1&token=9ddbd3bbf1fbb5c8f677f4c72a567b7f&expires=1795279375&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/kvivMhuEuzXuaj0UMjAAmrXVvWn.jpg",
+                "plot": "In seguito alla devastante guerra contro la RDA e alla perdita del loro figlio maggiore, Jake Sully e Neytiri affrontano una nuova minaccia su Pandora: il Popolo della Cenere, una trib\u00f9 Na'vi violenta e assetata di potere guidata dagli spietati Varang. La famiglia di Jake deve lottare per la propria sopravvivenza e per il futuro di Pandora in un conflitto che li spinge ai loro limiti emotivi e fisici."
+            }
+        ],
+        "634649": [
+            {
+                "ep_id": "634649",
+                "ep_title": "Spider-Man: No Way Home (2021) - \u2b50 7.9",
+                "url": "https://vixcloud.co/playlist/597167?b=1&token=d6e3151ec5ebf04a6dff90c8c5e8cc82&expires=1795279376&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/xLnZ0DB06H0MuGXcF0uhJxr6b8y.jpg",
+                "plot": "In seguito agli eventi di Spider-Man: Far from Home, la vita di Peter Parker viene stravolta dopo che Mysterio rivela al mondo la sua identit\u00e0. Peter chiede aiuto a Stephen Strange affinch\u00e9 usi la magia per far scordare a tutti la sua identit\u00e0. Ma l'incantesimo non va come previsto e Peter si ritrova a dover affrontare nemici da altri universi e a scoprire cosa significa davvero essere Spider-Man."
+            }
+        ],
+        "1440098": [
+            {
+                "ep_id": "1440098",
+                "ep_title": "Marfil - gli opposti (2026) - \u2b50 6.7",
+                "url": "https://vixcloud.co/playlist/786166?b=1&token=74bd09b7ab29a941946a7896c1bc91a1&expires=1795279378&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/w4g7RSF7YcH1pvSv67CgMwFVVVY.jpg",
+                "plot": "La vita a New York di Marfil, figlia di un uomo d'affari spagnolo, viene stravolta quando \u00e8 rapita e liberata senza spiegazione. Suo padre assume Sebasti\u00e1n Moore come sua guardia del corpo. I due vengono obbligati a passare ogni minuto insieme e tra loro si accende una passione inevitabile in un mondo in cui niente \u00e8 ci\u00f2 che sembra. Tratto dal romanzo di Mercedes Ron, autrice della saga Culpables."
+            }
+        ],
+        "1386315": [
+            {
+                "ep_id": "1386315",
+                "ep_title": "The Runner (2026) - \u2b50 6.7",
+                "url": "https://vixcloud.co/playlist/784342?token=edb96f1dfccf3121a2ce31e00c2f6116&expires=1795279379&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/e1LYkXpVLTNOf6HKcizbLPmMQb8.jpg",
+                "plot": "La vita di Maia Marten, una brillante avvocata londinese, viene scossa da una telefonata durante la sua corsa mattutina. Suo figlio \u00e8 stato rapito. Per riaverlo, deve continuare a correre, obbedire a delle regole spietate e non fidarsi di nessuno. Ogni secondo misura fin dove una madre pu\u00f2 spingersi per salvare il proprio figlio."
+            }
+        ],
+        "687163": [
+            {
+                "ep_id": "687163",
+                "ep_title": "L'ultima missione: Project Hail Mary (2026) - \u2b50 8.6",
+                "url": "https://vixcloud.co/playlist/705669?b=1&token=659f076d02895c0532cb7cf55e7f6ced&expires=1795279380&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
+                "plot": "L\u2019insegnante di scienze Ryland Grace si sveglia su un\u2019astronave lontano anni luce da casa senza alcun ricordo di chi sia o di come sia arrivato l\u00ec. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l\u2019enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovr\u00e0 fare affidamento sulle sue conoscenze scientifiche e sulle sue capacit\u00e0 di pensare fuori dagli schemi per salvare dall\u2019estinzione la vita sulla Terra, mentre un'inaspettata amicizia gli far\u00e0 capire che non \u00e8 solo in questa impresa."
+            }
+        ],
+        "1516698": [
+            {
+                "ep_id": "1516698",
+                "ep_title": "The Last Sunrise. L'estate delle prime volte (2026) - \u2b50 6.8",
+                "url": "https://vixcloud.co/playlist/782537?b=1&token=87fe618497045bb1be70cd9ab75f39b5&expires=1795279382&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/w4e0I3cLcEoYmWSDL2uCNSIJ5Dj.jpg",
+                "plot": "Basato sull'appassionante romanzo, The Last Sunrise. L'Estate Delle Prime Volte segue Ry, una studentessa affetta da una malattia cronica, durante una vacanza a Maiorca con la madre. L'inaspettata storia con Juli\u00e1n le insegna a vivere il momento, ma il peggioramento della malattia e vecchi segreti di famiglia rischiano di distruggere tutto in fretta."
+            }
+        ],
+        "755898": [
+            {
+                "ep_id": "755898",
+                "ep_title": "La guerra dei mondi (2025) - \u2b50 4.0",
+                "url": "https://vixcloud.co/playlist/331772?token=06bd839be1f57c49c016bd09fb08d019&expires=1795279383&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/vfYUXnQ1sNXxIm0DDiU6Vdmhz7i.jpg",
+                "plot": ""
+            }
+        ],
+        "361743": [
+            {
+                "ep_id": "361743",
+                "ep_title": "Top Gun: Maverick (2022) - \u2b50 8.2",
+                "url": "https://vixcloud.co/playlist/775208?token=2a8290086d0d62ba25d141eb9c0c3b8a&expires=1795279387&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/ygjXVgEALlUA5U8Ov5DhSJqJjUe.jpg",
+                "plot": "Dopo pi\u00f9 di trent\u2019anni di servizio nella Marina, il capitano Pete \u201cMaverick\u201d Mitchell si ritrova a essere quello che sognava, un pilota collaudatore che pu\u00f2 spingersi oltre ogni limite, schivando l\u2019avanzamento di carriera che metterebbe un freno alla sua libert\u00e0. Quando viene richiamato a addestrare i migliori allievi Top Gun per una missione di altissima specializzazione, Maverick incontra il tenente Bradley Bradshaw, nome in codice \u201cRooster\u201d, figlio del compianto \u201cGoose\u201d. Alle prese con un futuro incerto e con i fantasmi del passato, Maverick deve confrontarsi con le sue paure pi\u00f9 profonde, fino alla missione che richieder\u00e0 il sacrificio ultimo di quelli che sceglieranno di parteciparvi."
+            }
+        ]
+    }
+}
