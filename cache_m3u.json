@@ -1,28 +1,6 @@
 {
-    "last_trend_time": 1790181012.757229,
+    "last_trend_time": 1790193780.394326,
     "trends": [
-        {
-            "adult": false,
-            "backdrop_path": "/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-            "id": 1607127,
-            "title": "One Last Shot",
-            "original_title": "One Last Shot",
-            "overview": "",
-            "poster_path": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                28,
-                53
-            ],
-            "popularity": 90.7214,
-            "release_date": "2026-09-22",
-            "softcore": false,
-            "video": false,
-            "vote_average": 8.1,
-            "vote_count": 13,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
         {
             "adult": false,
             "backdrop_path": "/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
@@ -41,8 +19,30 @@
             "release_date": "2026-09-23",
             "softcore": false,
             "video": false,
-            "vote_average": 8.9,
-            "vote_count": 11,
+            "vote_average": 9.022,
+            "vote_count": 23,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+            "id": 1607127,
+            "title": "One Last Shot",
+            "original_title": "One Last Shot",
+            "overview": "",
+            "poster_path": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 90.7214,
+            "release_date": "2026-09-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 17,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -64,8 +64,30 @@
             "release_date": "2026-09-16",
             "softcore": false,
             "video": false,
-            "vote_average": 7.332,
-            "vote_count": 355,
+            "vote_average": 7.346,
+            "vote_count": 361,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
+            "id": 445466,
+            "title": "Idiots",
+            "original_title": "Idiots",
+            "overview": "",
+            "poster_path": "/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                35,
+                80
+            ],
+            "popularity": 33.5182,
+            "release_date": "2026-08-20",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 13,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -86,30 +108,8 @@
             "release_date": "2026-09-19",
             "softcore": false,
             "video": false,
-            "vote_average": 7.9,
-            "vote_count": 21,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
-            "id": 445466,
-            "title": "Idiots",
-            "original_title": "Idiots",
-            "overview": "",
-            "poster_path": "/flpCqxH46pGZD1kNOdYgrVsDoTm.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                35,
-                80
-            ],
-            "popularity": 33.5182,
-            "release_date": "2026-08-20",
-            "softcore": false,
-            "video": false,
-            "vote_average": 7.2,
-            "vote_count": 13,
+            "vote_average": 7.7,
+            "vote_count": 24,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -631,6 +631,42 @@
                 "url": "https://vixcloud.co/playlist/204161?token=5f2ce25aa9c243164e5fc7c2e7dec575&expires=1795365024&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/lHloXovbVaQ1tbOB1UaVQm6GgXo.jpg",
                 "plot": "Andy si dirige verso il Campo Cowboy, lasciando i suoi giocattoli a se stessi. Le cose si intensificano quando un collezionista ossessivo di giocattoli di nome Al McWhiggen, proprietario di Al's Toy Barn, rapisce Woody. I giocattoli di Andy organizzano una coraggiosa missione di salvataggio, Buzz Lightyear incontra il suo pari e Woody deve decidere dove lui e il suo cuore appartengono davvero."
+            }
+        ],
+        "1081003": [
+            {
+                "ep_id": "1081003",
+                "ep_title": "Supergirl (2026) - \u2b50 6.7",
+                "url": "https://vixcloud.co/playlist/775575?b=1&token=fcc6197aaa34ea6f9af07228404b30c2&expires=1795377789&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/s8JXiMG0skg5onZi49d7n2nuXjs.jpg",
+                "plot": "Quando un avversario inaspettato e spietato colpisce troppo vicino a casa, Kara Zor-El, alias Supergirl, \u00e8 costretta a stringere un\u2019improbabile alleanza intraprendendo un\u2019epica avventura interstellare all\u2019insegna della vendetta e della giustizia."
+            }
+        ],
+        "10138": [
+            {
+                "ep_id": "10138",
+                "ep_title": "Iron Man 2 (2010) - \u2b50 6.9",
+                "url": "https://vixcloud.co/playlist/253541?b=1&token=1e2b29711d56161620591a454bff7bed&expires=1795377792&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/lWSyc4wVNQyjlCtcZSIDauJTInI.jpg",
+                "plot": "Tony Stark \u00e8 Iron Man e ora, dopo 6 mesi, che la notizia \u00e8 di pubblico dominio il governo e le compagnie concorrenti, non troppo liete che la pace nel mondo sia mantenuta da un deterrente che non gli appartiene, tentano di appropriarsi dell'armatura: 'Ho privatizzato con successo la pace' risponde Stark a chi lo accusa di essere fuori dal controllo statale. Non \u00e8 tuttavia questo il problema pi\u00f9 grosso del miliardario con l'hobby del supereroismo. Il palladio, elemento utile a far funzionare l'armatura, lo sta lentamente uccidendo inquinandogli il sangue e il brillante inventore non riesce a trovare un rimedio. Come se non bastasse, nel mezzo di una corsa automobolistica promozionale, a turbare la pace mondiale si presenta Ivan Vanko, figlio di un vecchio collaboratore di Howard Stark (il padre di Tony), colmo di rancore, volont\u00e0 di vendetta e in possesso dei brevetti originali di molte invenzioni della Stark."
+            }
+        ],
+        "49013": [
+            {
+                "ep_id": "49013",
+                "ep_title": "Cars 2 (2011) - \u2b50 6.2",
+                "url": "https://vixcloud.co/playlist/202507?b=1&token=506f895fa50d7eda485bb52fa411f720&expires=1795377794&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/tkDt9LMNhdz4PB9fu8a0Psp8Pky.jpg",
+                "plot": "La star delle corse automobilistiche Saetta McQueen e il suo amico Cricchetto partono per l'estero per competere nel Gran Premio Mondiale. Ma la strada verso il campionato si fa irta di ostacoli quando Cricchetto si ritrova coinvolto in un'intrigante avventura: lo spionaggio internazionale."
+            }
+        ],
+        "260514": [
+            {
+                "ep_id": "260514",
+                "ep_title": "Cars 3 (2017) - \u2b50 6.9",
+                "url": "https://vixcloud.co/playlist/202516?b=1&token=619385c3f3026154fbb583e7cf1ad412&expires=1795377795&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/9uUlyW2QWHxc4n4ZXNRQMOV0uMV.jpg",
+                "plot": "Saetta McQueen, ora un'auto da corsa veterana, \u00e8 costretto a ritirarsi dopo un disastroso incidente. Saetta chiede alla giovane Cruz Ramirez, esperta di auto da corsa, e sua grande fan, di aiutarlo a tornare in pista per battere il suo avversario: Jackson Storm."
             }
         ]
     }
