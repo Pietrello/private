@@ -1,5 +1,5 @@
 {
-    "last_trend_time": 1790193780.394326,
+    "last_trend_time": 1790253697.311043,
     "trends": [
         {
             "adult": false,
@@ -15,34 +15,12 @@
                 10749,
                 35
             ],
-            "popularity": 42.8824,
+            "popularity": 218.1516,
             "release_date": "2026-09-23",
             "softcore": false,
             "video": false,
-            "vote_average": 9.022,
-            "vote_count": 23,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-            "id": 1607127,
-            "title": "One Last Shot",
-            "original_title": "One Last Shot",
-            "overview": "",
-            "poster_path": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                28,
-                53
-            ],
-            "popularity": 90.7214,
-            "release_date": "2026-09-22",
-            "softcore": false,
-            "video": false,
-            "vote_average": 7.7,
-            "vote_count": 17,
+            "vote_average": 8.069,
+            "vote_count": 58,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -60,34 +38,34 @@
                 878,
                 12
             ],
-            "popularity": 584.55,
+            "popularity": 560.076,
             "release_date": "2026-09-16",
             "softcore": false,
             "video": false,
-            "vote_average": 7.346,
-            "vote_count": 361,
+            "vote_average": 7.282,
+            "vote_count": 406,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
             "adult": false,
-            "backdrop_path": "/lneqlgbg3XUjNaeGYk8arhgzczo.jpg",
-            "id": 445466,
-            "title": "Idiots",
-            "original_title": "Idiots",
-            "overview": "",
-            "poster_path": "/l1JFNC1SdgyXVr7BaD5ehaYBvOC.jpg",
+            "backdrop_path": "/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+            "id": 1607127,
+            "title": "One Last Shot",
+            "original_title": "One Last Shot",
+            "overview": "Un Navy SEAL rinnegato e deluso dalla condotta del suo esercito, guida una squadra di mercenari nel tentativo di disattivare la rete di difesa statunitense. L'unico in grado di fermarlo \u00e8 il suo ex commilitone Jake Harris.",
+            "poster_path": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
             "media_type": "movie",
             "original_language": "en",
             "genre_ids": [
-                35,
-                80
+                28,
+                53
             ],
-            "popularity": 33.5182,
-            "release_date": "2026-08-20",
+            "popularity": 142.2671,
+            "release_date": "2026-09-22",
             "softcore": false,
             "video": false,
-            "vote_average": 7.2,
-            "vote_count": 13,
+            "vote_average": 7.614,
+            "vote_count": 35,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -104,36 +82,37 @@
                 12,
                 53
             ],
-            "popularity": 71.8911,
+            "popularity": 88.7025,
             "release_date": "2026-09-19",
             "softcore": false,
             "video": false,
-            "vote_average": 7.7,
-            "vote_count": 24,
+            "vote_average": 7.722,
+            "vote_count": 27,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
             "adult": false,
-            "backdrop_path": "/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
+            "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+            "id": 1084244,
+            "title": "Toy Story 5",
+            "original_title": "Toy Story 5",
+            "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
+            "poster_path": "/pbSlkjpduOmjPOI3XowK9fqomEM.jpg",
+            "media_type": "movie",
+            "original_language": "en",
             "genre_ids": [
-                18,
-                10749,
-                35
+                16,
+                10751,
+                35,
+                12
             ],
-            "id": 1408162,
-            "title": "\u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0bcd & \u0b9a\u0ba9\u0bcd\u0bb8\u0bcd",
-            "original_language": "ta",
-            "original_title": "\u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0bcd & \u0b9a\u0ba9\u0bcd\u0bb8\u0bcd",
-            "overview": "",
-            "popularity": 94.6603,
-            "poster_path": "/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
-            "release_date": "2026-08-14",
+            "popularity": 161.1158,
+            "release_date": "2026-06-17",
             "softcore": false,
             "video": false,
-            "vote_average": 7.3,
-            "vote_count": 28,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
+            "vote_average": 8.348,
+            "vote_count": 2271,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
             "adult": false,
@@ -148,13 +127,36 @@
             "original_language": "es",
             "original_title": "La captura",
             "overview": "Messico, 2016. Due poliziotti incrociano l'obiettivo di un'operazione militare finita male. Si tratta di uno dei killer pi\u00f9 pericolosi al mondo al soldo di un cartello criminale.",
-            "popularity": 95.4174,
+            "popularity": 87.2648,
             "poster_path": "/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
             "release_date": "2026-08-21",
             "softcore": false,
             "video": false,
-            "vote_average": 8.799,
-            "vote_count": 789,
+            "vote_average": 8.794,
+            "vote_count": 794,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
+            "genre_ids": [
+                18,
+                10749,
+                35
+            ],
+            "id": 1408162,
+            "title": "\u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0bcd & \u0b9a\u0ba9\u0bcd\u0bb8\u0bcd",
+            "original_language": "ta",
+            "original_title": "\u0bb5\u0bbf\u0bb8\u0bcd\u0bb5\u0ba8\u0bbe\u0ba4\u0bcd & \u0b9a\u0ba9\u0bcd\u0bb8\u0bcd",
+            "overview": "",
+            "popularity": 81.5496,
+            "poster_path": "/f5yXF2vBOxZcPxvw1P7kXXqOVFV.jpg",
+            "release_date": "2026-08-14",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.3,
+            "vote_count": 28,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -171,36 +173,13 @@
             "original_language": "en",
             "original_title": "Interstellar",
             "overview": "In seguito alla scoperta di un cunicolo spazio-temporale, un gruppo di esploratori si avventura in una eroica missione per tentare di superare i limiti della conquista spaziale e oltrepassare le distanze che fino a quel momento avevano reso impraticabili i viaggi interstellari. L'obiettivo \u00e8 quello di trovare nuovi luoghi dove coltivare il granoturco, l'unica coltivazione rimasta dopo un drastico cambiamento climatico che ha colpito soprattutto l'agricoltura.",
-            "popularity": 70.4329,
+            "popularity": 71.9338,
             "poster_path": "/bMKiLh0mES4Uiococ240lbbTGXQ.jpg",
             "release_date": "2014-11-05",
             "softcore": false,
             "video": false,
-            "vote_average": 8.5,
-            "vote_count": 41228,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/4kbkq887XNT85d6nJonCnmXDWor.jpg",
-            "genre_ids": [
-                10749,
-                14,
-                35
-            ],
-            "id": 6435,
-            "title": "Amori & incantesimi",
-            "original_language": "en",
-            "original_title": "Practical Magic",
-            "overview": "Le donne della famiglia Owens sono delle deliziose streghe, ma una maledizione fa morire tutti gli uomini di cui si innamorano.",
-            "popularity": 61.0436,
-            "poster_path": "/nQnvBhl8YMrtaKMb6juzNE4znXu.jpg",
-            "release_date": "1998-10-16",
-            "softcore": false,
-            "video": false,
-            "vote_average": 6.812,
-            "vote_count": 1962,
+            "vote_average": 8.488,
+            "vote_count": 41241,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -216,13 +195,36 @@
             "original_language": "ta",
             "original_title": "\u0bae\u0bca\u0ba4 \u0bb0\u0bbe\u0ba4\u0bcd\u0ba4\u0bbf\u0bb0\u0bbf",
             "overview": "",
-            "popularity": 69.3461,
+            "popularity": 70.38,
             "poster_path": "/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
             "release_date": "2026-08-21",
             "softcore": false,
             "video": false,
             "vote_average": 7.2,
             "vote_count": 5,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+            "genre_ids": [
+                80,
+                18,
+                53
+            ],
+            "id": 860508,
+            "title": "L'uomo dei sussurri",
+            "original_language": "en",
+            "original_title": "The Whisper Man",
+            "overview": "Dopo la scomparsa del figlio di otto anni, uno scrittore di gialli vedovo chiede aiuto al padre, un ex detective della polizia ormai in pensione con cui aveva interrotto i rapporti, e scopre che il rapimento \u00e8 collegato al vecchio caso di un serial killer condannato noto come \"L'uomo dei sussurri\".",
+            "popularity": 53.8881,
+            "poster_path": "/yghwNwvMjoHOm4TXHDmqSynbbMv.jpg",
+            "release_date": "2026-08-27",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.868,
+            "vote_count": 784,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -239,13 +241,13 @@
             "original_language": "en",
             "original_title": "Avengers: Endgame",
             "overview": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo \u00e8 stata dimezzata e tra i caduti c'\u00e8 stato anche Nick Fury. Ma prima di morire questi \u00e8 riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos per\u00f2 non si pu\u00f2 risolvere con la semplice superforza e i colpi di energia...",
-            "popularity": 112.3927,
+            "popularity": 95.2827,
             "poster_path": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
             "release_date": "2019-04-24",
             "softcore": false,
             "video": false,
-            "vote_average": 8.244,
-            "vote_count": 28742,
+            "vote_average": 8.2,
+            "vote_count": 28754,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -262,13 +264,13 @@
             "original_language": "en",
             "original_title": "Avengers: Infinity War",
             "overview": "Dalla nascita dell'universo, sei gemme elementari rappresentano i vari aspetti fondamentali del cosmo e chi le possedesse tutte raggiungerebbe l'onnipotenza. \u00c8 questo l'obiettivo di Thanos, il titano pazzo che ritiene se stesso come un correttivo alla sovrappopolazione universale e pensa di essere una misura necessaria e giusta, persino benevola, mentre agli altri il suo operato appare, correttamente, come una serie di genocidi. Gli Avengers e i Guardiani della Galassia dovranno cercare di fermarlo, ma come se non bastasse la sua inarrestabile potenza ci sono dalla sua armate aliene e quattro letali \"figli\", ognuno deciso a consegnargli le gemme dell'infinito.",
-            "popularity": 88.3314,
+            "popularity": 92.6134,
             "poster_path": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
             "release_date": "2018-04-25",
             "softcore": false,
             "video": false,
             "vote_average": 8.243,
-            "vote_count": 32955,
+            "vote_count": 32966,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -285,13 +287,13 @@
             "original_language": "en",
             "original_title": "The Mandalorian and Grogu",
             "overview": "L\u2019Impero \u00e8 caduto e i signori della guerra imperiali sono ancora sparsi per la galassia. Mentre la nascente Nuova Repubblica cerca di proteggere tutto ci\u00f2 per cui l\u2019Alleanza Ribelle ha combattuto, ha arruolato l\u2019aiuto del leggendario cacciatore di taglie mandaloriano Din Djarin e del suo giovane apprendista Grogu.",
-            "popularity": 81.0277,
+            "popularity": 80.1976,
             "poster_path": "/4v442cNP1nOhjjmf2l4Id2oWeR.jpg",
             "release_date": "2026-05-20",
             "softcore": false,
             "video": false,
-            "vote_average": 7.477,
-            "vote_count": 1700,
+            "vote_average": 7.475,
+            "vote_count": 1707,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -308,13 +310,13 @@
             "original_language": "en",
             "original_title": "Avatar: Fire and Ash",
             "overview": "In seguito alla devastante guerra contro la RDA e alla perdita del loro figlio maggiore, Jake Sully e Neytiri affrontano una nuova minaccia su Pandora: il Popolo della Cenere, una trib\u00f9 Na'vi violenta e assetata di potere guidata dagli spietati Varang. La famiglia di Jake deve lottare per la propria sopravvivenza e per il futuro di Pandora in un conflitto che li spinge ai loro limiti emotivi e fisici.",
-            "popularity": 75.0649,
+            "popularity": 75.3609,
             "poster_path": "/kvivMhuEuzXuaj0UMjAAmrXVvWn.jpg",
             "release_date": "2025-12-17",
             "softcore": false,
             "video": false,
-            "vote_average": 7.643,
-            "vote_count": 4359,
+            "vote_average": 7.642,
+            "vote_count": 4365,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -331,15 +333,37 @@
             "original_language": "en",
             "original_title": "Spider-Man: No Way Home",
             "overview": "In seguito agli eventi di Spider-Man: Far from Home, la vita di Peter Parker viene stravolta dopo che Mysterio rivela al mondo la sua identit\u00e0. Peter chiede aiuto a Stephen Strange affinch\u00e9 usi la magia per far scordare a tutti la sua identit\u00e0. Ma l'incantesimo non va come previsto e Peter si ritrova a dover affrontare nemici da altri universi e a scoprire cosa significa davvero essere Spider-Man.",
-            "popularity": 64.6442,
+            "popularity": 63.207,
             "poster_path": "/xLnZ0DB06H0MuGXcF0uhJxr6b8y.jpg",
             "release_date": "2021-12-15",
             "softcore": false,
             "video": false,
             "vote_average": 7.947,
-            "vote_count": 23162,
+            "vote_count": 23169,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
+            "genre_ids": [
+                10749,
+                35
+            ],
+            "id": 1032863,
+            "title": "The Love Hypothesis: Il teorema dell'amore",
+            "original_language": "en",
+            "original_title": "The Love Hypothesis",
+            "overview": "Basato sul best-seller del New York Times, The Love Hypothesis: Il teorema dell'amore racconta la storia di Olive, una dottoranda che bacia impulsivamente il professore pi\u00f9 minaccioso del suo dipartimento, Adam Carlsen. Il bisogno di entrambi di una falsa relazione si trasforma in un esperimento di chimica che potrebbe in realt\u00e0 risolversi nell'amore.",
+            "popularity": 218.1516,
+            "poster_path": "/5wJMjjorqHRe4cNpB2dgiUVvveF.jpg",
+            "release_date": "2026-09-23",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 60,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
         {
             "adult": false,
@@ -353,13 +377,13 @@
             "original_language": "es",
             "original_title": "Enfrentados: Marfil",
             "overview": "La vita a New York di Marfil, figlia di un uomo d'affari spagnolo, viene stravolta quando \u00e8 rapita e liberata senza spiegazione. Suo padre assume Sebasti\u00e1n Moore come sua guardia del corpo. I due vengono obbligati a passare ogni minuto insieme e tra loro si accende una passione inevitabile in un mondo in cui niente \u00e8 ci\u00f2 che sembra. Tratto dal romanzo di Mercedes Ron, autrice della saga Culpables.",
-            "popularity": 148.2249,
+            "popularity": 143.3663,
             "poster_path": "/w4g7RSF7YcH1pvSv67CgMwFVVVY.jpg",
             "release_date": "2026-09-09",
             "softcore": false,
             "video": false,
-            "vote_average": 6.695,
-            "vote_count": 110,
+            "vote_average": 6.667,
+            "vote_count": 114,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -375,13 +399,13 @@
             "original_language": "en",
             "original_title": "The Runner",
             "overview": "La vita di Maia Marten, una brillante avvocata londinese, viene scossa da una telefonata durante la sua corsa mattutina. Suo figlio \u00e8 stato rapito. Per riaverlo, deve continuare a correre, obbedire a delle regole spietate e non fidarsi di nessuno. Ogni secondo misura fin dove una madre pu\u00f2 spingersi per salvare il proprio figlio.",
-            "popularity": 123.862,
+            "popularity": 112.0989,
             "poster_path": "/e1LYkXpVLTNOf6HKcizbLPmMQb8.jpg",
             "release_date": "2026-09-03",
             "softcore": false,
             "video": false,
-            "vote_average": 6.765,
-            "vote_count": 555,
+            "vote_average": 6.8,
+            "vote_count": 559,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -397,57 +421,35 @@
             "original_language": "en",
             "original_title": "Project Hail Mary",
             "overview": "L\u2019insegnante di scienze Ryland Grace si sveglia su un\u2019astronave lontano anni luce da casa senza alcun ricordo di chi sia o di come sia arrivato l\u00ec. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l\u2019enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovr\u00e0 fare affidamento sulle sue conoscenze scientifiche e sulle sue capacit\u00e0 di pensare fuori dagli schemi per salvare dall\u2019estinzione la vita sulla Terra, mentre un'inaspettata amicizia gli far\u00e0 capire che non \u00e8 solo in questa impresa.",
-            "popularity": 99.5931,
+            "popularity": 103.7227,
             "poster_path": "/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
             "release_date": "2026-03-15",
             "softcore": false,
             "video": false,
-            "vote_average": 8.638,
-            "vote_count": 7925,
+            "vote_average": 8.6,
+            "vote_count": 7941,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
         {
             "adult": false,
-            "backdrop_path": "/zFCWfU2ViMIm38G1W8UsnSpqmWn.jpg",
+            "backdrop_path": "/nkEhDomjmPHJSA4Tx8pxv0NlKEy.jpg",
             "genre_ids": [
                 10749,
                 18
             ],
-            "id": 1516698,
-            "title": "The Last Sunrise. L'estate delle prime volte",
-            "original_language": "en",
-            "original_title": "The Last Sunrise",
-            "overview": "Basato sull'appassionante romanzo, The Last Sunrise. L'Estate Delle Prime Volte segue Ry, una studentessa affetta da una malattia cronica, durante una vacanza a Maiorca con la madre. L'inaspettata storia con Juli\u00e1n le insegna a vivere il momento, ma il peggioramento della malattia e vecchi segreti di famiglia rischiano di distruggere tutto in fretta.",
-            "popularity": 96.0388,
-            "poster_path": "/w4e0I3cLcEoYmWSDL2uCNSIJ5Dj.jpg",
-            "release_date": "2026-08-26",
+            "id": 1641629,
+            "title": "Io+Te - Soli contro tutti",
+            "original_language": "fr",
+            "original_title": "Toi+Moi - Seuls contre tous",
+            "overview": "Alma Lancaster conduce una vita apparentemente perfetta in una famiglia benestante, convinta che stia studiando legge. In segreto, per\u00f2, coltiva il suo vero sogno: il cinema. All'universit\u00e0 per\u00f2 incontra Vadim Arcadi, un solitario ribelle e carismatico con un passato travagliato.",
+            "popularity": 99.1631,
+            "poster_path": "/xXz5B7vDKLPfUVSQxFXfbw8seif.jpg",
+            "release_date": "2026-09-18",
             "softcore": false,
             "video": false,
-            "vote_average": 6.793,
-            "vote_count": 188,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
-            "genre_ids": [
-                878,
-                53
-            ],
-            "id": 755898,
-            "title": "La guerra dei mondi",
-            "original_language": "en",
-            "original_title": "War of the Worlds",
-            "overview": "",
-            "popularity": 91.5395,
-            "poster_path": "/vfYUXnQ1sNXxIm0DDiU6Vdmhz7i.jpg",
-            "release_date": "2025-07-29",
-            "softcore": false,
-            "video": false,
-            "vote_average": 4.036,
-            "vote_count": 1144,
+            "vote_average": 5.7,
+            "vote_count": 39,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         }
@@ -478,15 +480,6 @@
                 "url": "https://vixcloud.co/playlist/780955?token=9f75c05a5871934ca17ed85ec0083d3f&expires=1795279365&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/iwCeOpuBtuTP1kLosqgniey5OvX.jpg",
                 "plot": "Messico, 2016. Due poliziotti incrociano l'obiettivo di un'operazione militare finita male. Si tratta di uno dei killer pi\u00f9 pericolosi al mondo al soldo di un cartello criminale."
-            }
-        ],
-        "6435": [
-            {
-                "ep_id": "6435",
-                "ep_title": "Amori & incantesimi (1998) - \u2b50 6.8",
-                "url": "https://vixcloud.co/playlist/786439?token=1087b7017e08e544256bfeba7f4fd4d0&expires=1795279366&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/nQnvBhl8YMrtaKMb6juzNE4znXu.jpg",
-                "plot": "Le donne della famiglia Owens sono delle deliziose streghe, ma una maledizione fa morire tutti gli uomini di cui si innamorano."
             }
         ],
         "157336": [
@@ -568,24 +561,6 @@
                 "url": "https://vixcloud.co/playlist/705669?b=1&token=659f076d02895c0532cb7cf55e7f6ced&expires=1795279380&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
                 "plot": "L\u2019insegnante di scienze Ryland Grace si sveglia su un\u2019astronave lontano anni luce da casa senza alcun ricordo di chi sia o di come sia arrivato l\u00ec. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l\u2019enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovr\u00e0 fare affidamento sulle sue conoscenze scientifiche e sulle sue capacit\u00e0 di pensare fuori dagli schemi per salvare dall\u2019estinzione la vita sulla Terra, mentre un'inaspettata amicizia gli far\u00e0 capire che non \u00e8 solo in questa impresa."
-            }
-        ],
-        "1516698": [
-            {
-                "ep_id": "1516698",
-                "ep_title": "The Last Sunrise. L'estate delle prime volte (2026) - \u2b50 6.8",
-                "url": "https://vixcloud.co/playlist/782537?b=1&token=87fe618497045bb1be70cd9ab75f39b5&expires=1795279382&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/w4e0I3cLcEoYmWSDL2uCNSIJ5Dj.jpg",
-                "plot": "Basato sull'appassionante romanzo, The Last Sunrise. L'Estate Delle Prime Volte segue Ry, una studentessa affetta da una malattia cronica, durante una vacanza a Maiorca con la madre. L'inaspettata storia con Juli\u00e1n le insegna a vivere il momento, ma il peggioramento della malattia e vecchi segreti di famiglia rischiano di distruggere tutto in fretta."
-            }
-        ],
-        "755898": [
-            {
-                "ep_id": "755898",
-                "ep_title": "La guerra dei mondi (2025) - \u2b50 4.0",
-                "url": "https://vixcloud.co/playlist/331772?token=06bd839be1f57c49c016bd09fb08d019&expires=1795279383&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/vfYUXnQ1sNXxIm0DDiU6Vdmhz7i.jpg",
-                "plot": ""
             }
         ],
         "862": [
@@ -676,6 +651,51 @@
                 "url": "https://vixcloud.co/playlist/253379?b=1&token=684946e929f42a8d7048a961b3dbedee&expires=1795378226&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/zJ1ET3yE9SIkiZLTY6r9BjCvt1i.jpg",
                 "plot": "Sono passati pi\u00f9 di dieci anni da quando, nel corso di una serata in Svizzera, il miliardario genio-e-sregolatezza Tony Stark s'intratteneva con la bella Maya Hansen e lasciava sul tetto, in vana attesa, il visionario Aldrich Killian, desideroso di contare Stark tra le fila degli scienziati da lui diretti. Intanto, dal Medio Oriente, un terrorista senza scrupoli, detto il Mandarino, dopo aver seminato panico e morte in diverse zone degli Stati Uniti d'America, mira sempre pi\u00f9 esplicitamente al Presidente, ma passa prima da villa Stark, radendola al suolo. In pena per la sicurezza di Pepper e in preda a crescenti e fino ad ora sconosciuti attacchi di panico, Iron Man si ritrova chiamato all'azione su pi\u00f9 fronti, proprio nel momento di massima debolezza."
+            }
+        ],
+        "1084244": [
+            {
+                "ep_id": "1084244",
+                "ep_title": "Toy Story 5 (2026) - \u2b50 8.3",
+                "url": "https://vixcloud.co/playlist/780244?b=1&token=533794b3e7d6cefcee2cf9e11305cab6&expires=1795437700&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/pbSlkjpduOmjPOI3XowK9fqomEM.jpg",
+                "plot": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco."
+            }
+        ],
+        "860508": [
+            {
+                "ep_id": "860508",
+                "ep_title": "L'uomo dei sussurri (2026) - \u2b50 6.9",
+                "url": "https://vixcloud.co/playlist/783087?b=1&token=c7643af18136c4bb4a03d60d1ea2cafd&expires=1795437704&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/yghwNwvMjoHOm4TXHDmqSynbbMv.jpg",
+                "plot": "Dopo la scomparsa del figlio di otto anni, uno scrittore di gialli vedovo chiede aiuto al padre, un ex detective della polizia ormai in pensione con cui aveva interrotto i rapporti, e scopre che il rapimento \u00e8 collegato al vecchio caso di un serial killer condannato noto come 'L'uomo dei sussurri'."
+            }
+        ],
+        "1641629": [
+            {
+                "ep_id": "1641629",
+                "ep_title": "Io+Te - Soli contro tutti (2026) - \u2b50 5.7",
+                "url": "https://vixcloud.co/playlist/788161?b=1&token=9a77fe8844b902ab1f9439d2f0bc5c4d&expires=1795437706&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/xXz5B7vDKLPfUVSQxFXfbw8seif.jpg",
+                "plot": "Alma Lancaster conduce una vita apparentemente perfetta in una famiglia benestante, convinta che stia studiando legge. In segreto, per\u00f2, coltiva il suo vero sogno: il cinema. All'universit\u00e0 per\u00f2 incontra Vadim Arcadi, un solitario ribelle e carismatico con un passato travagliato."
+            }
+        ],
+        "10193": [
+            {
+                "ep_id": "10193",
+                "ep_title": "Toy Story 3 - La grande fuga (2010) - \u2b50 7.8",
+                "url": "https://vixcloud.co/playlist/204160?token=ef2eccc7b0091c02aba63b6089adee8e&expires=1795437710&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/tTBILVsSwLRB2CiNVSlewd5XZsW.jpg",
+                "plot": "Woody, Buzz e gli altri giocattoli di Andy non vengono giocati da anni. Con Andy che sta per andare all'universit\u00e0, il gruppo si ritrova accidentalmente lasciato in un asilo nido losco. I giocattoli devono unirsi per scappare e tornare a casa da Andy."
+            }
+        ],
+        "301528": [
+            {
+                "ep_id": "301528",
+                "ep_title": "Toy Story 4 (2019) - \u2b50 7.5",
+                "url": "https://vixcloud.co/playlist/204164?token=74e13eea3bba9507881a187c6450cb94&expires=1795437712&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/lilCjgWKcwIpa55BuTzzI2BMZgP.jpg",
+                "plot": "Woody \u00e8 sempre stato sicuro del suo posto nel mondo, devoto a prendersi cura dei suoi bimbi, che si tratti di Andy o Bonnie. Dopo che Bonnie crea un nuovo giocattolo riluttante chiamato 'Forky', un'avventura in viaggio a vecchi e nuovi amici mette in discussione tutto ci\u00f2 in cui Woody crede riguardo alla lealt\u00e0, allo scopo e a cosa significhi davvero essere un giocattolo."
             }
         ]
     }
