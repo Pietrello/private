@@ -1,9 +1,9 @@
 {
-    "last_trend_time": 1790253697.311043,
+    "last_trend_time": 1790294535.972373,
     "trends": [
         {
             "adult": false,
-            "backdrop_path": "/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
+            "backdrop_path": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
             "id": 1032863,
             "title": "The Love Hypothesis: Il teorema dell'amore",
             "original_title": "The Love Hypothesis",
@@ -19,8 +19,8 @@
             "release_date": "2026-09-23",
             "softcore": false,
             "video": false,
-            "vote_average": 8.069,
-            "vote_count": 58,
+            "vote_average": 8.116,
+            "vote_count": 108,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -42,52 +42,8 @@
             "release_date": "2026-09-16",
             "softcore": false,
             "video": false,
-            "vote_average": 7.282,
-            "vote_count": 406,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
-            "id": 1607127,
-            "title": "One Last Shot",
-            "original_title": "One Last Shot",
-            "overview": "Un Navy SEAL rinnegato e deluso dalla condotta del suo esercito, guida una squadra di mercenari nel tentativo di disattivare la rete di difesa statunitense. L'unico in grado di fermarlo \u00e8 il suo ex commilitone Jake Harris.",
-            "poster_path": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                28,
-                53
-            ],
-            "popularity": 142.2671,
-            "release_date": "2026-09-22",
-            "softcore": false,
-            "video": false,
-            "vote_average": 7.614,
-            "vote_count": 35,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-            "id": 1263337,
-            "title": "Heart of the Beast - Nel profondo selvaggio",
-            "original_title": "Heart of the Beast",
-            "overview": "Dopo un drammatico incidente aereo, l\u2019ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre pi\u00f9 remote e inospitali dell\u2019Alaska. Al suo fianco c\u2019\u00e8 solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l\u2019uno all\u2019altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verr\u00e0 messo alla prova come mai prima d\u2019ora.",
-            "poster_path": "/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                12,
-                53
-            ],
-            "popularity": 88.7025,
-            "release_date": "2026-09-19",
-            "softcore": false,
-            "video": false,
-            "vote_average": 7.722,
-            "vote_count": 27,
+            "vote_average": 7.288,
+            "vote_count": 426,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -110,8 +66,52 @@
             "release_date": "2026-06-17",
             "softcore": false,
             "video": false,
-            "vote_average": 8.348,
-            "vote_count": 2271,
+            "vote_average": 8.3,
+            "vote_count": 2280,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+            "id": 1263337,
+            "title": "Heart of the Beast - Nel profondo selvaggio",
+            "original_title": "Heart of the Beast",
+            "overview": "Dopo un drammatico incidente aereo, l\u2019ufficiale delle Forze Speciali James Belmont (Brad Pitt) si ritrova disperso nelle terre pi\u00f9 remote e inospitali dell\u2019Alaska. Al suo fianco c\u2019\u00e8 solo Odino, il fedele cane militare con cui ha condiviso missioni estreme e situazioni al limite. Circondati da una natura selvaggia e spietata, tra freddo estremo, predatori e ostacoli imprevedibili, James e Odin dovranno affidarsi l\u2019uno all\u2019altro per sopravvivere. Mentre ogni passo verso la salvezza si trasforma in una sfida, il loro legame verr\u00e0 messo alla prova come mai prima d\u2019ora.",
+            "poster_path": "/yiqRtrbY63aSPLinH5IsJwKHzZN.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                12,
+                53
+            ],
+            "popularity": 88.7025,
+            "release_date": "2026-09-19",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.703,
+            "vote_count": 32,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8giIQcHpxgsPVP6c7aQtHl3txuh.jpg",
+            "id": 1607127,
+            "title": "One Last Shot",
+            "original_title": "One Last Shot",
+            "overview": "Un Navy SEAL rinnegato e deluso dalla condotta del suo esercito, guida una squadra di mercenari nel tentativo di disattivare la rete di difesa statunitense. L'unico in grado di fermarlo \u00e8 il suo ex commilitone Jake Harris.",
+            "poster_path": "/niQ4NBh2jqAf1hDZP5m6ReWFAb7.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 142.2671,
+            "release_date": "2026-09-22",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 38,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -179,7 +179,7 @@
             "softcore": false,
             "video": false,
             "vote_average": 8.488,
-            "vote_count": 41241,
+            "vote_count": 41245,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -200,33 +200,58 @@
             "release_date": "2026-08-21",
             "softcore": false,
             "video": false,
-            "vote_average": 7.2,
-            "vote_count": 5,
+            "vote_average": 7.6,
+            "vote_count": 7,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
         {
             "adult": false,
-            "backdrop_path": "/uauoVKKCkNA9iWjgJCL8TdSfLf5.jpg",
+            "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
             "genre_ids": [
-                80,
-                18,
-                53
+                10751,
+                16,
+                878,
+                12
             ],
-            "id": 860508,
-            "title": "L'uomo dei sussurri",
+            "id": 1184918,
+            "title": "Il robot selvaggio",
             "original_language": "en",
-            "original_title": "The Whisper Man",
-            "overview": "Dopo la scomparsa del figlio di otto anni, uno scrittore di gialli vedovo chiede aiuto al padre, un ex detective della polizia ormai in pensione con cui aveva interrotto i rapporti, e scopre che il rapimento \u00e8 collegato al vecchio caso di un serial killer condannato noto come \"L'uomo dei sussurri\".",
-            "popularity": 53.8881,
-            "poster_path": "/yghwNwvMjoHOm4TXHDmqSynbbMv.jpg",
-            "release_date": "2026-08-27",
+            "original_title": "The Wild Robot",
+            "overview": "L'epica avventura segue il viaggio di un robot - l'unit\u00e0 ROZZUM 7134, abbreviato Roz - che dopo un naufragio si ritrova su un'isola disabitata dove dovr\u00e0 imparare ad adattarsi all\u2019ostile ambiente circostante, costruendo gradualmente relazioni con gli altri animali dell\u2019isola e adottando un'ochetta orfana.",
+            "popularity": 62.7094,
+            "poster_path": "/rTLuc7yMbrkl1V9uocfoRcjJqdm.jpg",
+            "release_date": "2024-09-12",
             "softcore": false,
             "video": false,
-            "vote_average": 6.868,
-            "vote_count": 784,
+            "vote_average": 8.3,
+            "vote_count": 6632,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+            "genre_ids": [
+                16,
+                10751,
+                35,
+                12
+            ],
+            "id": 1084244,
+            "title": "Toy Story 5",
+            "original_language": "en",
+            "original_title": "Toy Story 5",
+            "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
+            "popularity": 161.1158,
+            "poster_path": "/pbSlkjpduOmjPOI3XowK9fqomEM.jpg",
+            "release_date": "2026-06-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.3,
+            "vote_count": 2280,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
         {
             "adult": false,
@@ -246,8 +271,8 @@
             "release_date": "2019-04-24",
             "softcore": false,
             "video": false,
-            "vote_average": 8.2,
-            "vote_count": 28754,
+            "vote_average": 8.244,
+            "vote_count": 28761,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -270,7 +295,7 @@
             "softcore": false,
             "video": false,
             "vote_average": 8.243,
-            "vote_count": 32966,
+            "vote_count": 32970,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -292,8 +317,8 @@
             "release_date": "2026-05-20",
             "softcore": false,
             "video": false,
-            "vote_average": 7.475,
-            "vote_count": 1707,
+            "vote_average": 7.477,
+            "vote_count": 1709,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -315,37 +340,14 @@
             "release_date": "2025-12-17",
             "softcore": false,
             "video": false,
-            "vote_average": 7.642,
-            "vote_count": 4365,
+            "vote_average": 7.643,
+            "vote_count": 4367,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
         {
             "adult": false,
-            "backdrop_path": "/iQFcwSGbZXMkeyKrxbPnwnRo5fl.jpg",
-            "genre_ids": [
-                28,
-                12,
-                878
-            ],
-            "id": 634649,
-            "title": "Spider-Man: No Way Home",
-            "original_language": "en",
-            "original_title": "Spider-Man: No Way Home",
-            "overview": "In seguito agli eventi di Spider-Man: Far from Home, la vita di Peter Parker viene stravolta dopo che Mysterio rivela al mondo la sua identit\u00e0. Peter chiede aiuto a Stephen Strange affinch\u00e9 usi la magia per far scordare a tutti la sua identit\u00e0. Ma l'incantesimo non va come previsto e Peter si ritrova a dover affrontare nemici da altri universi e a scoprire cosa significa davvero essere Spider-Man.",
-            "popularity": 63.207,
-            "poster_path": "/xLnZ0DB06H0MuGXcF0uhJxr6b8y.jpg",
-            "release_date": "2021-12-15",
-            "softcore": false,
-            "video": false,
-            "vote_average": 7.947,
-            "vote_count": 23169,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/c8hvRzN5nijvp1VcSs8nqHly1bK.jpg",
+            "backdrop_path": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
             "genre_ids": [
                 10749,
                 35
@@ -360,8 +362,8 @@
             "release_date": "2026-09-23",
             "softcore": false,
             "video": false,
-            "vote_average": 8.1,
-            "vote_count": 60,
+            "vote_average": 8.167,
+            "vote_count": 96,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -382,8 +384,8 @@
             "release_date": "2026-09-09",
             "softcore": false,
             "video": false,
-            "vote_average": 6.667,
-            "vote_count": 114,
+            "vote_average": 6.67,
+            "vote_count": 115,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -405,7 +407,7 @@
             "softcore": false,
             "video": false,
             "vote_average": 6.8,
-            "vote_count": 559,
+            "vote_count": 560,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -426,8 +428,8 @@
             "release_date": "2026-03-15",
             "softcore": false,
             "video": false,
-            "vote_average": 8.6,
-            "vote_count": 7941,
+            "vote_average": 8.639,
+            "vote_count": 7947,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -448,8 +450,8 @@
             "release_date": "2026-09-18",
             "softcore": false,
             "video": false,
-            "vote_average": 5.7,
-            "vote_count": 39,
+            "vote_average": 5.613,
+            "vote_count": 41,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         }
@@ -525,15 +527,6 @@
                 "url": "https://vixcloud.co/playlist/694871?b=1&token=9ddbd3bbf1fbb5c8f677f4c72a567b7f&expires=1795279375&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/kvivMhuEuzXuaj0UMjAAmrXVvWn.jpg",
                 "plot": "In seguito alla devastante guerra contro la RDA e alla perdita del loro figlio maggiore, Jake Sully e Neytiri affrontano una nuova minaccia su Pandora: il Popolo della Cenere, una trib\u00f9 Na'vi violenta e assetata di potere guidata dagli spietati Varang. La famiglia di Jake deve lottare per la propria sopravvivenza e per il futuro di Pandora in un conflitto che li spinge ai loro limiti emotivi e fisici."
-            }
-        ],
-        "634649": [
-            {
-                "ep_id": "634649",
-                "ep_title": "Spider-Man: No Way Home (2021) - \u2b50 7.9",
-                "url": "https://vixcloud.co/playlist/597167?b=1&token=d6e3151ec5ebf04a6dff90c8c5e8cc82&expires=1795279376&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/xLnZ0DB06H0MuGXcF0uhJxr6b8y.jpg",
-                "plot": "In seguito agli eventi di Spider-Man: Far from Home, la vita di Peter Parker viene stravolta dopo che Mysterio rivela al mondo la sua identit\u00e0. Peter chiede aiuto a Stephen Strange affinch\u00e9 usi la magia per far scordare a tutti la sua identit\u00e0. Ma l'incantesimo non va come previsto e Peter si ritrova a dover affrontare nemici da altri universi e a scoprire cosa significa davvero essere Spider-Man."
             }
         ],
         "1440098": [
@@ -662,15 +655,6 @@
                 "plot": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco."
             }
         ],
-        "860508": [
-            {
-                "ep_id": "860508",
-                "ep_title": "L'uomo dei sussurri (2026) - \u2b50 6.9",
-                "url": "https://vixcloud.co/playlist/783087?b=1&token=c7643af18136c4bb4a03d60d1ea2cafd&expires=1795437704&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/yghwNwvMjoHOm4TXHDmqSynbbMv.jpg",
-                "plot": "Dopo la scomparsa del figlio di otto anni, uno scrittore di gialli vedovo chiede aiuto al padre, un ex detective della polizia ormai in pensione con cui aveva interrotto i rapporti, e scopre che il rapimento \u00e8 collegato al vecchio caso di un serial killer condannato noto come 'L'uomo dei sussurri'."
-            }
-        ],
         "1641629": [
             {
                 "ep_id": "1641629",
@@ -696,6 +680,24 @@
                 "url": "https://vixcloud.co/playlist/204164?token=74e13eea3bba9507881a187c6450cb94&expires=1795437712&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/lilCjgWKcwIpa55BuTzzI2BMZgP.jpg",
                 "plot": "Woody \u00e8 sempre stato sicuro del suo posto nel mondo, devoto a prendersi cura dei suoi bimbi, che si tratti di Andy o Bonnie. Dopo che Bonnie crea un nuovo giocattolo riluttante chiamato 'Forky', un'avventura in viaggio a vecchi e nuovi amici mette in discussione tutto ci\u00f2 in cui Woody crede riguardo alla lealt\u00e0, allo scopo e a cosa significhi davvero essere un giocattolo."
+            }
+        ],
+        "1184918": [
+            {
+                "ep_id": "1184918",
+                "ep_title": "Il robot selvaggio (2024) - \u2b50 8.3",
+                "url": "https://vixcloud.co/playlist/268184?token=a931e35b130b83d0ddd340da384b8164&expires=1795478541&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/rTLuc7yMbrkl1V9uocfoRcjJqdm.jpg",
+                "plot": "L'epica avventura segue il viaggio di un robot - l'unit\u00e0 ROZZUM 7134, abbreviato Roz - che dopo un naufragio si ritrova su un'isola disabitata dove dovr\u00e0 imparare ad adattarsi all\u2019ostile ambiente circostante, costruendo gradualmente relazioni con gli altri animali dell\u2019isola e adottando un'ochetta orfana."
+            }
+        ],
+        "1232569": [
+            {
+                "ep_id": "1232569",
+                "ep_title": "Pinocchio: Unstrung (2026) - \u2b50 6.6",
+                "url": "https://vixcloud.co/playlist/780577?token=32ed1dc360f20dd8d9b94b984be1776d&expires=1795478546&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/c8IC2lORaymJyTuYwCqhN25vMx8.jpg",
+                "plot": "Influenzato da un Grillo Parlante sinistro e creato da Geppetto, Pinocchio intraprende una violenta crociata per trasformarsi, pezzo dopo pezzo, in un bambino vero come suo fratello Giacomo."
             }
         ]
     }
