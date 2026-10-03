@@ -1,5 +1,5 @@
 {
-    "last_trend_time": 1791024662.982218,
+    "last_trend_time": 1791046357.7461069,
     "trends": [
         {
             "adult": false,
@@ -19,8 +19,8 @@
             "release_date": "2026-10-02",
             "softcore": false,
             "video": false,
-            "vote_average": 6.767,
-            "vote_count": 15,
+            "vote_average": 5.886,
+            "vote_count": 22,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -41,30 +41,8 @@
             "release_date": "2026-09-28",
             "softcore": false,
             "video": false,
-            "vote_average": 7.421,
-            "vote_count": 76,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
-            "id": 1283515,
-            "title": "Verity",
-            "original_title": "Verity",
-            "overview": "Lowen Ashleigh (Dakota Johnson), una scrittrice in difficolt\u00e0, si trasferisce nella remota tenuta dei Crawford per fare da ghostwriter alla celebre autrice Verity Crawford (Anne Hathaway). Dopo aver scoperto quelli che sembrano essere gli inquietanti appunti autobiografici di Verity, Lowen deve fare i conti con le torbide e distorte confessioni sul marito di lei, Jeremy (Josh Hartnett), trovando difficile distinguere la finzione dalla realt\u00e0, la manipolazione dall'attrazione e l'opportunit\u00e0 dall'ossessione.",
-            "poster_path": "/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                9648,
-                53
-            ],
-            "popularity": 125.6968,
-            "release_date": "2026-09-30",
-            "softcore": false,
-            "video": false,
-            "vote_average": 6.625,
-            "vote_count": 52,
+            "vote_average": 7.289,
+            "vote_count": 83,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -86,7 +64,29 @@
             "softcore": false,
             "video": false,
             "vote_average": 7.9,
-            "vote_count": 148,
+            "vote_count": 150,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3BoHXmGAfC2qO4wnCpMYV0BzpHD.jpg",
+            "id": 1283515,
+            "title": "Verity",
+            "original_title": "Verity",
+            "overview": "Lowen Ashleigh (Dakota Johnson), una scrittrice in difficolt\u00e0, si trasferisce nella remota tenuta dei Crawford per fare da ghostwriter alla celebre autrice Verity Crawford (Anne Hathaway). Dopo aver scoperto quelli che sembrano essere gli inquietanti appunti autobiografici di Verity, Lowen deve fare i conti con le torbide e distorte confessioni sul marito di lei, Jeremy (Josh Hartnett), trovando difficile distinguere la finzione dalla realt\u00e0, la manipolazione dall'attrazione e l'opportunit\u00e0 dall'ossessione.",
+            "poster_path": "/cLMNbCkgzn1qlmox7FyQBgXwL4D.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                9648,
+                53
+            ],
+            "popularity": 125.6968,
+            "release_date": "2026-09-30",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.555,
+            "vote_count": 55,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -107,8 +107,8 @@
             "release_date": "2026-09-07",
             "softcore": false,
             "video": false,
-            "vote_average": 8.261,
-            "vote_count": 285,
+            "vote_average": 8.239,
+            "vote_count": 291,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -129,8 +129,8 @@
             "release_date": "2026-09-25",
             "softcore": false,
             "video": false,
-            "vote_average": 6.598,
-            "vote_count": 291,
+            "vote_average": 6.592,
+            "vote_count": 294,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -151,8 +151,8 @@
             "release_date": "2017-10-04",
             "softcore": false,
             "video": false,
-            "vote_average": 7.6,
-            "vote_count": 15767,
+            "vote_average": 7.608,
+            "vote_count": 15769,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -175,7 +175,7 @@
             "softcore": false,
             "video": false,
             "vote_average": 8.489,
-            "vote_count": 41352,
+            "vote_count": 41355,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -244,8 +244,8 @@
             "release_date": "2026-06-17",
             "softcore": false,
             "video": false,
-            "vote_average": 8.317,
-            "vote_count": 2456,
+            "vote_average": 8.315,
+            "vote_count": 2458,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -267,8 +267,8 @@
             "release_date": "2019-04-24",
             "softcore": false,
             "video": false,
-            "vote_average": 8.246,
-            "vote_count": 28875,
+            "vote_average": 8.2,
+            "vote_count": 28878,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -290,8 +290,8 @@
             "release_date": "2018-04-25",
             "softcore": false,
             "video": false,
-            "vote_average": 8.244,
-            "vote_count": 33043,
+            "vote_average": 8.2,
+            "vote_count": 33044,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -338,8 +338,8 @@
             "release_date": "2025-12-17",
             "softcore": false,
             "video": false,
-            "vote_average": 7.643,
-            "vote_count": 4423,
+            "vote_average": 7.645,
+            "vote_count": 4426,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -669,6 +669,15 @@
                 "url": "https://vixcloud.co/playlist/206375?b=1&token=5e9e1f79c2a0b1ac83561df890cbbed5&expires=1796208669&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/xaegYELleYoOMH0a8SMQ4nQnhSm.jpg",
                 "plot": "Bruce Banner si \u00e8 nascosto in una labirintica favela del Brasile, dove lavora in una fabbrica che imbottiglia bibite al guaran\u00e0 e conta i giorni 'senza crisi', allenandosi a mantenere basse le pulsazioni cardiache agendo sulla respirazione e sul rifiuto delle provocazioni. Sono pi\u00f9 di cento giorni che vive cos\u00ec, reprimendo gli impulsi del corpo e gli slanci del cuore, che \u00e8 rimasto negli Stati Uniti, accanto alla dottoressa Ross. Ma basta una goccia di sangue, perduta involontariamente, a innescare la fine o, per essere pi\u00f9 precisi, un nuovo inizio. La macchina da guerra americana, guidata dal generale Ross, \u00e8 immediatamente sulle sue tracce. Braccato, Bruce non pu\u00f2 che cedere alla sua nemesi, strapparsi le vesti e trasformarsi nel gigante verde."
+            }
+        ],
+        "10195": [
+            {
+                "ep_id": "10195",
+                "ep_title": "Thor (2011) - \u2b50 6.8",
+                "url": "https://vixcloud.co/playlist/323875?b=1&token=bd68fd78bfb06ca093d502c9db44db8d&expires=1796230364&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/vW6R9uQuuFaPyasAPlXTy7H202G.jpg",
+                "plot": "Figlio primogenito del potente Odino, Thor \u00e8 destinato a salire al trono di Asgard ma la sua foga e il desiderio di affermarsi in battaglia lo spingono ad un'azione avventata che, non fosse per l'intervento salvifico del padre, rischia di mettere a repentaglio la pace e la sicurezza del suo regno. Affranto per la delusione procuratagli dall'inadeguatezza del figlio Odino decide di scagliarlo sulla Terra, privato dei suoi poteri e impossibilitato ad usare Mjolnir, il suo micidiale maglio. Almeno fino a che non sar\u00e0 in grado di usarlo con giudizio. Caduto nel nostro mondo il dio nordico si imbatte, nel vero senso della parola, in un gruppo di ricercatori che indagano i curiosi eventi atmosferici che hanno luogo nel New Mexico e in particolare in un'astrofisica dal sorriso facile. Intanto nel regno di Asgard il fratello Loki approfitta di un malessere del padre per salire al trono."
             }
         ]
     }
