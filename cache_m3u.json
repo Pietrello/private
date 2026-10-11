@@ -1,6 +1,28 @@
 {
-    "last_trend_time": 1791722811.743063,
+    "last_trend_time": 1791751850.419801,
     "trends": [
+        {
+            "adult": false,
+            "backdrop_path": "/tzoarEu7TsG959upiELyYPm5kO9.jpg",
+            "id": 1236045,
+            "title": "Animals",
+            "original_title": "Animals",
+            "overview": "Dopo il rapimento del figlio, un candidato a sindaco di Los Angeles e la moglie tentano di racimolare il riscatto affrontando scelte che rischiano di distruggere la loro vita.",
+            "poster_path": "/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                53,
+                18
+            ],
+            "popularity": 194.3342,
+            "release_date": "2026-10-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.412,
+            "vote_count": 189,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
         {
             "adult": false,
             "backdrop_path": "/4N2Ur9ald3D1rncUzmskcwe9PCK.jpg",
@@ -20,30 +42,8 @@
             "release_date": "2026-10-05",
             "softcore": false,
             "video": false,
-            "vote_average": 7.8,
-            "vote_count": 158,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-            "id": 1236045,
-            "title": "Animals",
-            "original_title": "Animals",
-            "overview": "Dopo il rapimento del figlio, un candidato a sindaco di Los Angeles e la moglie tentano di racimolare il riscatto affrontando scelte che rischiano di distruggere la loro vita.",
-            "poster_path": "/cyltXU1lAGhRFBuHQIMWBAPj8fI.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                53,
-                18
-            ],
-            "popularity": 194.3342,
-            "release_date": "2026-10-09",
-            "softcore": false,
-            "video": false,
-            "vote_average": 7.446,
-            "vote_count": 158,
+            "vote_average": 7.76,
+            "vote_count": 179,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -65,52 +65,52 @@
             "release_date": "2026-07-29",
             "softcore": false,
             "video": false,
-            "vote_average": 8.411,
-            "vote_count": 4938,
+            "vote_average": 8.418,
+            "vote_count": 5004,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
             "adult": false,
-            "backdrop_path": "/p40lmrdI4blcAPZQMTPaiy5v5Ym.jpg",
-            "id": 1291595,
-            "title": "Insidious - Fuori dall\u2019Altrove",
-            "original_title": "Insidious: Out of the Further",
-            "overview": "Gemma, una giovane madre che cresce la figlia nella casa in cui \u00e8 nata, scopre di poter viaggiare nell'Altrove, il regno-purgatorio delle anime perdute. Quando un'entit\u00e0 malvagia inizia a darle la caccia, Gemma scopre un'abilit\u00e0 che cambia ogni cosa: non si limita solo a entrare nell'Altrove ma pu\u00f2 portare ci\u00f2 che vive l\u00ec nel mondo reale. Una volta che i demoni comprendono il suo potere, il nostro mondo diventa il loro terreno di gioco.",
-            "poster_path": "/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
+            "backdrop_path": "/ncm7djsVTHQQMX2HEbEVxMUFchG.jpg",
+            "id": 1400837,
+            "title": "Mammina",
+            "original_title": "Other Mommy",
+            "overview": "Un viaggio terrificante nel mondo sempre pi\u00f9 oscuro di Bela, una ragazzina che instaura un rapporto con un\u2019entit\u00e0 sinistra presente nella sua casa, che assomiglia in modo inquietante alla sua stessa madre.",
+            "poster_path": "/ir1esRZZk49yKaLAVQd2FgvLxLf.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                27
+            ],
+            "popularity": 108.8258,
+            "release_date": "2026-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.808,
+            "vote_count": 65,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3icyRAqgakNcQn6aDVz9libFmBA.jpg",
+            "id": 1423191,
+            "title": "Resident Evil",
+            "original_title": "Resident Evil",
+            "overview": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui.",
+            "poster_path": "/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
             "media_type": "movie",
             "original_language": "en",
             "genre_ids": [
                 27,
-                53
+                878,
+                12
             ],
-            "popularity": 454.8876,
-            "release_date": "2026-08-19",
+            "popularity": 704.1066,
+            "release_date": "2026-09-16",
             "softcore": false,
             "video": false,
-            "vote_average": 7.6,
-            "vote_count": 568,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/rzxBvCix5Ebl3KYPIXpD8hy64uE.jpg",
-            "id": 1476746,
-            "title": "The Florist",
-            "original_title": "The Florist",
-            "overview": "",
-            "poster_path": "/1etZaDkyHpaRz2cTvH2evgQm19J.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                28,
-                53
-            ],
-            "popularity": 32.0069,
-            "release_date": "2026-09-24",
-            "softcore": false,
-            "video": false,
-            "vote_average": 6.545,
-            "vote_count": 11,
+            "vote_average": 7.329,
+            "vote_count": 872,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -130,8 +130,8 @@
             "release_date": "2026-10-09",
             "softcore": false,
             "video": false,
-            "vote_average": 7.48,
-            "vote_count": 151,
+            "vote_average": 7.417,
+            "vote_count": 168,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -154,7 +154,7 @@
             "softcore": false,
             "video": false,
             "vote_average": 8.49,
-            "vote_count": 41442,
+            "vote_count": 41447,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -177,53 +177,52 @@
             "softcore": false,
             "video": false,
             "vote_average": 6.574,
-            "vote_count": 412,
+            "vote_count": 419,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
         {
             "adult": false,
-            "backdrop_path": "/1pmXyN3sKeYoUhu5VBZiDU4BX21.jpg",
+            "backdrop_path": "/1RgPyOhN4DRs225BGTlHJqCudII.jpg",
             "genre_ids": [
-                10751,
                 16,
-                878,
-                12
+                28,
+                14
             ],
-            "id": 1184918,
-            "title": "Il robot selvaggio",
-            "original_language": "en",
-            "original_title": "The Wild Robot",
-            "overview": "L'epica avventura segue il viaggio di un robot - l'unit\u00e0 ROZZUM 7134, abbreviato Roz - che dopo un naufragio si ritrova su un'isola disabitata dove dovr\u00e0 imparare ad adattarsi all\u2019ostile ambiente circostante, costruendo gradualmente relazioni con gli altri animali dell\u2019isola e adottando un'ochetta orfana.",
-            "popularity": 50.1817,
-            "poster_path": "/rTLuc7yMbrkl1V9uocfoRcjJqdm.jpg",
-            "release_date": "2024-09-12",
+            "id": 1311031,
+            "title": "Demon Slayer: Il Castello dell'Infinito - Parte 1",
+            "original_language": "ja",
+            "original_title": "\u5287\u5834\u7248\u300c\u9b3c\u6ec5\u306e\u5203\u300d\u7121\u9650\u57ce\u7de8 \u7b2c\u4e00\u7ae0 \u7317\u7aa9\u5ea7\u518d\u6765",
+            "overview": "Tanjiro Kamado \u00e8 un ragazzo unitosi a un\u2019organizzazione dedita alla caccia dei demoni chiamata Squadra dei cacciatori di demoni dopo che la sorella minore Nezuko \u00e8 diventata una di questi mostri. Acquisendo sempre pi\u00f9 forza e approfondendo i legami di amicizia con i suoi compagni, Tanjiro ha combattuto molti demoni con i suoi compagni Zenitsu Agatsuma e Inosuke Hashibira. Con il capo della Squadra dei cacciatori di demoni in pericolo, Tanjiro e i Pilastri accorrono al quartier generale, dove per\u00f2 per mano di Muzan Kibutsuji precipitano in un luogo misterioso. Lo spazio in cui Tanjiro e la Squadra dei cacciatori di demoni sono piombati \u00e8 la fortezza dei demoni: il Castello dell'Infinito. Il campo di battaglia \u00e8 pronto e lo scontro finale tra la Squadra dei cacciatori di demoni e i demoni si accende.",
+            "popularity": 56.2685,
+            "poster_path": "/bq88RHSdnT2rpt4ki9CJUxHz2gH.jpg",
+            "release_date": "2025-07-18",
             "softcore": false,
             "video": false,
-            "vote_average": 8.31,
-            "vote_count": 6706,
+            "vote_average": 8.799,
+            "vote_count": 2266,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
         {
             "adult": false,
-            "backdrop_path": "/nDScZ6YR2nfNCeK5bmJ1ujb355b.jpg",
+            "backdrop_path": "/gNdLJU9TxrpGx4dkZidjys3fyy0.jpg",
             "genre_ids": [
-                10749,
+                878,
                 18
             ],
-            "id": 1458857,
-            "title": "Doing Life",
+            "id": 335984,
+            "title": "Blade Runner 2049",
             "original_language": "en",
-            "original_title": "Doing Life",
-            "overview": "Una madre single, che ogni singolo giorno lotta con tutta se stessa per rimanere a galla, incontra un ex detenuto pentito - ricco di talenti inespressi - e con lui forma un legame del tutto inaspettato.",
-            "popularity": 54.8743,
-            "poster_path": "/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
-            "release_date": "2026-10-02",
+            "original_title": "Blade Runner 2049",
+            "overview": "Trent'anni dopo gli eventi del primo film, un nuovo blade runner, l'Agente K della Polizia di Los Angeles  scopre un segreto sepolto da tempo che ha il potenziale di far precipitare nel caos quello che \u00e8 rimasto della societ\u00e0. La scoperta di K lo spinge verso la ricerca di Rick Deckard, un ex-blade runner della polizia di Los Angeles sparito nel nulla da 30 anni.",
+            "popularity": 55.018,
+            "poster_path": "/4XJQG11Ytl8mKfgbl2jkoY5ZuFX.jpg",
+            "release_date": "2017-10-04",
             "softcore": false,
             "video": false,
-            "vote_average": 7.701,
-            "vote_count": 82,
+            "vote_average": 7.609,
+            "vote_count": 15823,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -246,8 +245,8 @@
             "release_date": "2026-06-17",
             "softcore": false,
             "video": false,
-            "vote_average": 8.292,
-            "vote_count": 2558,
+            "vote_average": 8.287,
+            "vote_count": 2570,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -272,7 +271,7 @@
             "softcore": false,
             "video": false,
             "vote_average": 7.7,
-            "vote_count": 3537,
+            "vote_count": 3542,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -294,8 +293,8 @@
             "release_date": "2019-04-24",
             "softcore": false,
             "video": false,
-            "vote_average": 8.245,
-            "vote_count": 28967,
+            "vote_average": 8.2,
+            "vote_count": 28972,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -318,30 +317,30 @@
             "softcore": false,
             "video": false,
             "vote_average": 8.244,
-            "vote_count": 33120,
+            "vote_count": 33128,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
         {
             "adult": false,
-            "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+            "backdrop_path": "/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
             "genre_ids": [
-                878,
-                12,
-                14
+                14,
+                16,
+                10751
             ],
-            "id": 83533,
-            "title": "Avatar: Fuoco e cenere",
+            "id": 9479,
+            "title": "Nightmare Before Christmas",
             "original_language": "en",
-            "original_title": "Avatar: Fire and Ash",
-            "overview": "In seguito alla devastante guerra contro la RDA e alla perdita del loro figlio maggiore, Jake Sully e Neytiri affrontano una nuova minaccia su Pandora: il Popolo della Cenere, una trib\u00f9 Na'vi violenta e assetata di potere guidata dagli spietati Varang. La famiglia di Jake deve lottare per la propria sopravvivenza e per il futuro di Pandora in un conflitto che li spinge ai loro limiti emotivi e fisici.",
-            "popularity": 68.8387,
-            "poster_path": "/kvivMhuEuzXuaj0UMjAAmrXVvWn.jpg",
-            "release_date": "2025-12-17",
+            "original_title": "The Nightmare Before Christmas",
+            "overview": "Jack Skeletron, il sovrano della citt\u00e0 di Halloween, vuole riprodurre la magia della citt\u00e0 di Natale, naturalmente a modo suo, e per fare ci\u00f2 rapisce proprio Babbo Natale, mettendo in pericolo il naturale equilibrio fra le festivit\u00e0. Riuscir\u00e0 Sally, con il suo amore, a far ritornare Jack sui propri passi ed evitare cos\u00ec questo disastro?",
+            "popularity": 81.5438,
+            "poster_path": "/e7BbNMsW3FTbHeLwHzldXw8YKCc.jpg",
+            "release_date": "1993-10-09",
             "softcore": false,
             "video": false,
-            "vote_average": 7.647,
-            "vote_count": 4483,
+            "vote_average": 7.848,
+            "vote_count": 10706,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -362,8 +361,8 @@
             "release_date": "2026-09-07",
             "softcore": false,
             "video": false,
-            "vote_average": 8.309,
-            "vote_count": 469,
+            "vote_average": 8.318,
+            "vote_count": 478,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -384,8 +383,30 @@
             "release_date": "2026-09-23",
             "softcore": false,
             "video": false,
-            "vote_average": 8.033,
-            "vote_count": 554,
+            "vote_average": 8.04,
+            "vote_count": 558,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
+            "genre_ids": [
+                878,
+                53
+            ],
+            "id": 755898,
+            "title": "La guerra dei mondi",
+            "original_language": "en",
+            "original_title": "War of the Worlds",
+            "overview": "",
+            "popularity": 91.5049,
+            "poster_path": "/vfYUXnQ1sNXxIm0DDiU6Vdmhz7i.jpg",
+            "release_date": "2025-07-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 4.036,
+            "vote_count": 1166,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -407,29 +428,7 @@
             "softcore": false,
             "video": false,
             "vote_average": 8.633,
-            "vote_count": 8232,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/iZLqwEwUViJdSkGVjePGhxYzbDb.jpg",
-            "genre_ids": [
-                878,
-                53
-            ],
-            "id": 755898,
-            "title": "La guerra dei mondi",
-            "original_language": "en",
-            "original_title": "War of the Worlds",
-            "overview": "",
-            "popularity": 91.5049,
-            "poster_path": "/vfYUXnQ1sNXxIm0DDiU6Vdmhz7i.jpg",
-            "release_date": "2025-07-29",
-            "softcore": false,
-            "video": false,
-            "vote_average": 4.035,
-            "vote_count": 1165,
+            "vote_count": 8244,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -451,8 +450,8 @@
             "release_date": "2025-07-18",
             "softcore": false,
             "video": false,
-            "vote_average": 8.8,
-            "vote_count": 2263,
+            "vote_average": 8.799,
+            "vote_count": 2266,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         }
@@ -483,15 +482,6 @@
                 "url": "https://vixcloud.co/playlist/649865?b=1&token=221d725144da921b55ac3ab94644d6c8&expires=1795279373&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
                 "plot": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo \u00e8 stata dimezzata e tra i caduti c'\u00e8 stato anche Nick Fury. Ma prima di morire questi \u00e8 riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos per\u00f2 non si pu\u00f2 risolvere con la semplice superforza e i colpi di energia..."
-            }
-        ],
-        "83533": [
-            {
-                "ep_id": "83533",
-                "ep_title": "Avatar: Fuoco e cenere (2025) - \u2b50 7.6",
-                "url": "https://vixcloud.co/playlist/694871?b=1&token=9ddbd3bbf1fbb5c8f677f4c72a567b7f&expires=1795279375&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/kvivMhuEuzXuaj0UMjAAmrXVvWn.jpg",
-                "plot": "In seguito alla devastante guerra contro la RDA e alla perdita del loro figlio maggiore, Jake Sully e Neytiri affrontano una nuova minaccia su Pandora: il Popolo della Cenere, una trib\u00f9 Na'vi violenta e assetata di potere guidata dagli spietati Varang. La famiglia di Jake deve lottare per la propria sopravvivenza e per il futuro di Pandora in un conflitto che li spinge ai loro limiti emotivi e fisici."
             }
         ],
         "687163": [
@@ -593,15 +583,6 @@
                 "plot": "Bolt \u00e8 il cane-attore perfetto, per lui non esiste differenza tra set e vita, tra realt\u00e0 e finzione, Bolt \u00e8 davvero convinto di essere un supercane frutto di un esperimento scientifico come il personaggio che interpreta.La sua missione nella serie tv, e quindi nella vita, \u00e8 molto simile a quella di qualsiasi cane: difendere il padrone, che nel caso specifico \u00e8 una bambina.  Dopo averlo fatto in molteplici ciak per\u00f2 il caso porter\u00e0 Bolt fuori dalla campana di vetro dei grandi studios, nel mondo reale dove i suoi cinematografici superpoteri non funzionano, alla disperata ricerca della padrona.  Sballottato dall'altra parte degli Stati Uniti dovr\u00e0 compiere un prodigioso (nonch\u00e9 istruttivo) ritorno a casa come gi\u00e0 un'altra star canina del cinema fece decenni prima."
             }
         ],
-        "1458857": [
-            {
-                "ep_id": "1458857",
-                "ep_title": "Doing Life (2026) - \u2b50 7.0",
-                "url": "https://vixcloud.co/playlist/792367?b=1&token=837abd97a5151abc3cdb9e68077687bc&expires=1796142060&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/5nZVjsCk5tWyyhLGt5U2TxsR85w.jpg",
-                "plot": "Una madre single, che ogni singolo giorno lotta con tutta se stessa per rimanere a galla, incontra un ex detenuto pentito - ricco di talenti inespressi - e con lui forma un legame del tutto inaspettato."
-            }
-        ],
         "1084242": [
             {
                 "ep_id": "1084242",
@@ -701,15 +682,6 @@
                 "plot": "Milo Bradgord (Ben Affleck), il candidato a sindaco di Los Angeles,  si trova a vivere in un incubo, dopo che suo figlio viene rapito. Lui e sua moglie hanno poche ore per pagare il riscatto, ma hanno speso la maggior parte del loro denato per la campagna politica dell'uomo. I due saranno costretti a ricorrere a misure estreme per racimolare i soldi, sporcandosi le mani e rivelando un lato della loro vita che non avrebbero mai voluto portare alla luce..."
             }
         ],
-        "1184918": [
-            {
-                "ep_id": "1184918",
-                "ep_title": "Il robot selvaggio (2024) - \u2b50 8.3",
-                "url": "https://vixcloud.co/playlist/268184?token=a3140f3023cbb92775f345ed676cb1db&expires=1796727869&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/rTLuc7yMbrkl1V9uocfoRcjJqdm.jpg",
-                "plot": "L'epica avventura segue il viaggio di un robot - l'unit\u00e0 ROZZUM 7134, abbreviato Roz - che dopo un naufragio si ritrova su un'isola disabitata dove dovr\u00e0 imparare ad adattarsi all\u2019ostile ambiente circostante, costruendo gradualmente relazioni con gli altri animali dell\u2019isola e adottando un'ochetta orfana."
-            }
-        ],
         "99861": [
             {
                 "ep_id": "99861",
@@ -719,15 +691,6 @@
                 "plot": "Quando Tony Stark riprende un programma di mantenimento della pace in disuso, qualcosa va storto e la squadra degli eroi pi\u00f9 potenti della Terra composta da Iron Man, Captain America, Thor, l\u2019Incredibile Hulk, Vedova Nera e Occhio di Falco, sar\u00e0 messa a dura prova per salvare il mondo da un destino inesorabile. Toccher\u00e0 agli Avengers far fronte al malvagio Ultron e impedirgli di portare a compimento i suoi terribili piani. Nuove e scomode alleanze ed eventi imprevisti daranno vita a una straordinaria ed epica avventura"
             }
         ],
-        "1291595": [
-            {
-                "ep_id": "1291595",
-                "ep_title": "Insidious - Fuori dall\u2019Altrove (2026) - \u2b50 7.6",
-                "url": "https://vixcloud.co/playlist/793272?b=1&token=ec3bea2f15482f31515a6b6569c7ece1&expires=1796906814&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/eszahdPOeElmK3DSNXW44Qb0aNh.jpg",
-                "plot": "Gemma, una giovane madre che cresce la figlia nella casa in cui \u00e8 nata, scopre di poter viaggiare nell'Altrove, il regno-purgatorio delle anime perdute. Quando un'entit\u00e0 malvagia inizia a darle la caccia, Gemma scopre un'abilit\u00e0 che cambia ogni cosa: non si limita solo a entrare nell'Altrove ma pu\u00f2 portare ci\u00f2 che vive l\u00ec nel mondo reale. Una volta che i demoni comprendono il suo potere, il nostro mondo diventa il loro terreno di gioco."
-            }
-        ],
         "102899": [
             {
                 "ep_id": "102899",
@@ -735,6 +698,42 @@
                 "url": "https://vixcloud.co/playlist/204961?token=44fa494138e03dbc82a246e0a395377d&expires=1796906820&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/c9QcbZHv0DZ2nm2sS2akqqrir8y.jpg",
                 "plot": "Lo scassinatore Scott Lang accetta un ultimo colpo, ma dentro la cassaforte anzich\u00e9 soldi trova una strana tuta. Quando la indossa attiva un meccanismo di miniaturizzazione che lo trasforma in un minuscolo guerriero. Contattato dal creatore della tuta, lo scienziato Hank Pym, Scott si trover\u00e0 di fronte alla difficile decisione di diventare Ant-Man e salvare il mondo da un pericolo mortale."
+            }
+        ],
+        "969681": [
+            {
+                "ep_id": "969681",
+                "ep_title": "Spider-Man: Brand New Day (2026) - \u2b50 8.4",
+                "url": "https://vixcloud.co/playlist/793125?b=1&token=60643489784ee110d33ee374fe51e90c&expires=1796935852&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
+                "plot": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter \u00e8 ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce pi\u00f9 il suo nome, si \u00e8 dedicato interamente alla protezione della sua citt\u00e0. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, d\u00e0 origine a una delle minacce pi\u00f9 potenti che abbia mai affrontato."
+            }
+        ],
+        "1423191": [
+            {
+                "ep_id": "1423191",
+                "ep_title": "Resident Evil (2026) - \u2b50 7.3",
+                "url": "https://vixcloud.co/playlist/790689?b=1&token=ef8614a98b3720e122519a3f177b76d9&expires=1796935855&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/D8rnntI88rgzWKDK2yuxm25HTQ.jpg",
+                "plot": "Bryan, un corriere medico, si ritrova involontariamente coinvolto in una frenetica sfida contro il tempo per sopravvivere, mentre una notte sconvolgente e orribile sprofonda nel caos intorno a lui."
+            }
+        ],
+        "335984": [
+            {
+                "ep_id": "335984",
+                "ep_title": "Blade Runner 2049 (2017) - \u2b50 7.6",
+                "url": "https://vixcloud.co/playlist/247774?token=35968f09bb952ca78a8deb7642cac2a7&expires=1796935858&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/4XJQG11Ytl8mKfgbl2jkoY5ZuFX.jpg",
+                "plot": "Trent'anni dopo gli eventi del primo film, un nuovo blade runner, l'Agente K della Polizia di Los Angeles  scopre un segreto sepolto da tempo che ha il potenziale di far precipitare nel caos quello che \u00e8 rimasto della societ\u00e0. La scoperta di K lo spinge verso la ricerca di Rick Deckard, un ex-blade runner della polizia di Los Angeles sparito nel nulla da 30 anni."
+            }
+        ],
+        "9479": [
+            {
+                "ep_id": "9479",
+                "ep_title": "Nightmare Before Christmas (1993) - \u2b50 7.8",
+                "url": "https://vixcloud.co/playlist/214327?b=1&token=d210352bc6a5870a40f785d222385a58&expires=1796935860&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/e7BbNMsW3FTbHeLwHzldXw8YKCc.jpg",
+                "plot": "Jack Skeletron, il sovrano della citt\u00e0 di Halloween, vuole riprodurre la magia della citt\u00e0 di Natale, naturalmente a modo suo, e per fare ci\u00f2 rapisce proprio Babbo Natale, mettendo in pericolo il naturale equilibrio fra le festivit\u00e0. Riuscir\u00e0 Sally, con il suo amore, a far ritornare Jack sui propri passi ed evitare cos\u00ec questo disastro?"
             }
         ]
     }
