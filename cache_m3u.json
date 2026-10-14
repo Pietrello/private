@@ -1,29 +1,6 @@
 {
-    "last_trend_time": 1791902488.639817,
+    "last_trend_time": 1791988205.7627761,
     "trends": [
-        {
-            "adult": false,
-            "backdrop_path": "/wE6syT1vv6W24iLGfhR4kQHnIDN.jpg",
-            "id": 1302904,
-            "title": "Amori & incantesimi 2",
-            "original_title": "Practical Magic 2",
-            "overview": "Il film ci riporta in un mondo ricco di intrighi al chiaro di luna e di potente magia ancestrale, mentre le sorelle Owens devono affrontare l\u2019oscura maledizione che minaccia di distruggere per sempre la loro famiglia, in un imperdibile evento cinematografico all\u2019insegna di divertimento, magia e caos.",
-            "poster_path": "/q5teI4VZ2gxQnDWlMhDkcn9P805.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                10749,
-                14,
-                35
-            ],
-            "popularity": 89.1126,
-            "release_date": "2026-09-09",
-            "softcore": false,
-            "video": false,
-            "vote_average": 6.3,
-            "vote_count": 122,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
         {
             "adult": false,
             "backdrop_path": "/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
@@ -39,57 +16,34 @@
                 9648,
                 28
             ],
-            "popularity": 42.297,
+            "popularity": 126.804,
             "release_date": "2026-07-15",
             "softcore": false,
             "video": false,
-            "vote_average": 7.25,
-            "vote_count": 126,
+            "vote_average": 7.185,
+            "vote_count": 143,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
             "adult": false,
-            "backdrop_path": "/tzoarEu7TsG959upiELyYPm5kO9.jpg",
-            "id": 1236045,
-            "title": "Animals",
-            "original_title": "Animals",
-            "overview": "Dopo il rapimento del figlio, un candidato a sindaco di Los Angeles e la moglie tentano di racimolare il riscatto affrontando scelte che rischiano di distruggere la loro vita.",
-            "poster_path": "/2bSbPh4m29yW4vj3zLWFGou9E9K.jpg",
+            "backdrop_path": "/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg",
+            "id": 1381078,
+            "title": "L'amore della tua vita",
+            "original_title": "Love of Your Life",
+            "overview": "L'amore della tua vita segue Maya (Margaret Qualley), il cui incontro casuale con Charlie (Gabriel Basso) d\u00e0 inizio a un amore travolgente e a un futuro impensabile. Quando quel futuro viene sconvolto, Maya si ritrova catapultata in una nuova vita, che la costringe a confrontarsi con chi \u00e8, con cosa vuole e con la possibilit\u00e0 di amare di nuovo.",
+            "poster_path": "/z10uWG4eeuDk72IcQe3niXsQCik.jpg",
             "media_type": "movie",
             "original_language": "en",
             "genre_ids": [
-                53,
-                18
+                18,
+                10749
             ],
-            "popularity": 260.506,
-            "release_date": "2026-10-09",
+            "popularity": 6.5158,
+            "release_date": "2026-10-07",
             "softcore": false,
             "video": false,
-            "vote_average": 7.399,
-            "vote_count": 303,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/jdJsnhHfkIi3J7jwfiCFT4gXNx5.jpg",
-            "id": 1148365,
-            "title": "Matchbox: Il film",
-            "original_title": "Matchbox the Movie",
-            "overview": "Quando un gruppo di amici si ritrova, la loro riunione prende una piega inaspettata perch\u00e9 si imbattono in un pericoloso complotto internazionale. E dovranno salvare il mondo.",
-            "poster_path": "/JFawNsqIqIZbmfn7Ud7oUvJMMm.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                28,
-                35,
-                12
-            ],
-            "popularity": 377.6855,
-            "release_date": "2026-10-05",
-            "softcore": false,
-            "video": false,
-            "vote_average": 7.964,
-            "vote_count": 267,
+            "vote_average": 6.3,
+            "vote_count": 5,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -107,12 +61,57 @@
                 35,
                 14
             ],
-            "popularity": 14.7618,
+            "popularity": 66.2662,
             "release_date": "2026-08-27",
             "softcore": false,
             "video": false,
-            "vote_average": 7.788,
-            "vote_count": 78,
+            "vote_average": 7.7,
+            "vote_count": 96,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/oIglj0Jy9duG4LnrRUpH8n001Pk.jpg",
+            "id": 1302904,
+            "title": "Amori & incantesimi 2",
+            "original_title": "Practical Magic 2",
+            "overview": "Il film ci riporta in un mondo ricco di intrighi al chiaro di luna e di potente magia ancestrale, mentre le sorelle Owens devono affrontare l\u2019oscura maledizione che minaccia di distruggere per sempre la loro famiglia, in un imperdibile evento cinematografico all\u2019insegna di divertimento, magia e caos.",
+            "poster_path": "/fj4qveRGXSBTGBJHVSZfILDafOJ.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                14,
+                35
+            ],
+            "popularity": 123.643,
+            "release_date": "2026-09-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.381,
+            "vote_count": 147,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m45xBFqUT4EYpb8eIbamPGK3qea.jpg",
+            "id": 1153576,
+            "title": "Street Fighter",
+            "original_title": "Street Fighter",
+            "overview": "1993. Un\u2019epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un\u2019ombra. Una cospirazione letale che costringer\u00e0 Ryu e Ken non solo a combattere tra loro, ma a guardare in faccia i demoni del passato. Perch\u00e9 qui non esistono seconde possibilit\u00e0: se perdi, \u00e8 GAME OVER.",
+            "poster_path": "/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                14
+            ],
+            "popularity": 56.1672,
+            "release_date": "2026-10-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 8,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -127,13 +126,13 @@
             "original_language": "en",
             "original_title": "Animals",
             "overview": "Dopo il rapimento del figlio, un candidato a sindaco di Los Angeles e la moglie tentano di racimolare il riscatto affrontando scelte che rischiano di distruggere la loro vita.",
-            "popularity": 260.506,
+            "popularity": 269.1292,
             "poster_path": "/2bSbPh4m29yW4vj3zLWFGou9E9K.jpg",
             "release_date": "2026-10-09",
             "softcore": false,
             "video": false,
-            "vote_average": 7.439,
-            "vote_count": 297,
+            "vote_average": 7.346,
+            "vote_count": 331,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -149,7 +148,7 @@
             "original_language": "hi",
             "original_title": "\u0930\u093f\u092a\u094b\u0930\u094d\u091f\u093f\u0902\u0917 \u0932\u093e\u0907\u0935",
             "overview": "",
-            "popularity": 115.322,
+            "popularity": 114.7854,
             "poster_path": "/72ETmrsQGk8guVo1GV8Sf7EygOe.jpg",
             "release_date": "2026-10-09",
             "softcore": false,
@@ -172,13 +171,36 @@
             "original_language": "en",
             "original_title": "Interstellar",
             "overview": "In seguito alla scoperta di un cunicolo spazio-temporale, un gruppo di esploratori si avventura in una eroica missione per tentare di superare i limiti della conquista spaziale e oltrepassare le distanze che fino a quel momento avevano reso impraticabili i viaggi interstellari. L'obiettivo \u00e8 quello di trovare nuovi luoghi dove coltivare il granoturco, l'unica coltivazione rimasta dopo un drastico cambiamento climatico che ha colpito soprattutto l'agricoltura.",
-            "popularity": 65.8256,
+            "popularity": 76.9308,
             "poster_path": "/bMKiLh0mES4Uiococ240lbbTGXQ.jpg",
             "release_date": "2014-11-04",
             "softcore": false,
             "video": false,
             "vote_average": 8.49,
-            "vote_count": 41464,
+            "vote_count": 41479,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
+            "genre_ids": [
+                53,
+                18,
+                80
+            ],
+            "id": 1492640,
+            "title": "UNABOMBER",
+            "original_language": "en",
+            "original_title": "UNABOMBER",
+            "overview": "Il percorso di Ted Kaczynski da prodigio di Harvard, e cavia per esperimenti, a Unabomber.",
+            "popularity": 54.4118,
+            "poster_path": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
+            "release_date": "2026-09-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.565,
+            "vote_count": 453,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -196,36 +218,13 @@
             "original_language": "en",
             "original_title": "The Wild Robot",
             "overview": "L'epica avventura segue il viaggio di un robot - l'unit\u00e0 ROZZUM 7134, abbreviato Roz - che dopo un naufragio si ritrova su un'isola disabitata dove dovr\u00e0 imparare ad adattarsi all\u2019ostile ambiente circostante, costruendo gradualmente relazioni con gli altri animali dell\u2019isola e adottando un'ochetta orfana.",
-            "popularity": 58.0813,
+            "popularity": 90.2348,
             "poster_path": "/rTLuc7yMbrkl1V9uocfoRcjJqdm.jpg",
             "release_date": "2024-09-12",
             "softcore": false,
             "video": false,
-            "vote_average": 8.31,
-            "vote_count": 6718,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-            "genre_ids": [
-                53,
-                18,
-                80
-            ],
-            "id": 1492640,
-            "title": "UNABOMBER",
-            "original_language": "en",
-            "original_title": "UNABOMBER",
-            "overview": "Il percorso di Ted Kaczynski da prodigio di Harvard, e cavia per esperimenti, a Unabomber.",
-            "popularity": 60.0594,
-            "poster_path": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-            "release_date": "2026-09-25",
-            "softcore": false,
-            "video": false,
-            "vote_average": 6.562,
-            "vote_count": 442,
+            "vote_average": 8.309,
+            "vote_count": 6721,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -243,13 +242,13 @@
             "original_language": "en",
             "original_title": "Toy Story 5",
             "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
-            "popularity": 155.0431,
+            "popularity": 149.9692,
             "poster_path": "/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
             "release_date": "2026-06-17",
             "softcore": false,
             "video": false,
-            "vote_average": 8.287,
-            "vote_count": 2595,
+            "vote_average": 8.3,
+            "vote_count": 2598,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -268,36 +267,13 @@
             "original_language": "en",
             "original_title": "Zootopia 2",
             "overview": "Dopo aver risolto il caso pi\u00f9 importante nella storia di Zootropolis, i poliziotti alle prime armi Judy Hopps e Nick Wilde scoprono che la loro collaborazione non \u00e8 cos\u00ec solida come pensavano quando il capo Bogo ordina loro di unirsi al programma di consulenza \"Partners in Crisis\". Ma non ci vuole molto perch\u00e9 la loro collaborazione venga messa a dura prova quando si ritrovano sulle tracce tortuose di un mistero legato all'arrivo di un serpente velenoso nella metropoli degli animali.",
-            "popularity": 96.9032,
+            "popularity": 98.5402,
             "poster_path": "/lVesXbaSnCh0e27punAv4ZKWkxk.jpg",
             "release_date": "2025-11-26",
             "softcore": false,
             "video": false,
             "vote_average": 7.666,
-            "vote_count": 3545,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
-            "genre_ids": [
-                12,
-                878,
-                28
-            ],
-            "id": 299534,
-            "title": "Avengers: Endgame",
-            "original_language": "en",
-            "original_title": "Avengers: Endgame",
-            "overview": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo \u00e8 stata dimezzata e tra i caduti c'\u00e8 stato anche Nick Fury. Ma prima di morire questi \u00e8 riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos per\u00f2 non si pu\u00f2 risolvere con la semplice superforza e i colpi di energia...",
-            "popularity": 95.0022,
-            "poster_path": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
-            "release_date": "2019-04-24",
-            "softcore": false,
-            "video": false,
-            "vote_average": 8.246,
-            "vote_count": 28988,
+            "vote_count": 3550,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -314,13 +290,36 @@
             "original_language": "en",
             "original_title": "Avengers: Infinity War",
             "overview": "Dalla nascita dell'universo, sei gemme elementari rappresentano i vari aspetti fondamentali del cosmo e chi le possedesse tutte raggiungerebbe l'onnipotenza. \u00c8 questo l'obiettivo di Thanos, il titano pazzo che ritiene se stesso come un correttivo alla sovrappopolazione universale e pensa di essere una misura necessaria e giusta, persino benevola, mentre agli altri il suo operato appare, correttamente, come una serie di genocidi. Gli Avengers e i Guardiani della Galassia dovranno cercare di fermarlo, ma come se non bastasse la sua inarrestabile potenza ci sono dalla sua armate aliene e quattro letali \"figli\", ognuno deciso a consegnargli le gemme dell'infinito.",
-            "popularity": 96.4023,
+            "popularity": 96.2886,
             "poster_path": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
             "release_date": "2018-04-25",
             "softcore": false,
             "video": false,
-            "vote_average": 8.245,
-            "vote_count": 33137,
+            "vote_average": 8.2,
+            "vote_count": 33143,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+            "genre_ids": [
+                12,
+                878,
+                28
+            ],
+            "id": 299534,
+            "title": "Avengers: Endgame",
+            "original_language": "en",
+            "original_title": "Avengers: Endgame",
+            "overview": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo \u00e8 stata dimezzata e tra i caduti c'\u00e8 stato anche Nick Fury. Ma prima di morire questi \u00e8 riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos per\u00f2 non si pu\u00f2 risolvere con la semplice superforza e i colpi di energia...",
+            "popularity": 90.4111,
+            "poster_path": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
+            "release_date": "2019-04-24",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.246,
+            "vote_count": 28999,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -337,19 +336,19 @@
             "original_language": "en",
             "original_title": "The Nightmare Before Christmas",
             "overview": "Jack Skeletron, il sovrano della citt\u00e0 di Halloween, vuole riprodurre la magia della citt\u00e0 di Natale, naturalmente a modo suo, e per fare ci\u00f2 rapisce proprio Babbo Natale, mettendo in pericolo il naturale equilibrio fra le festivit\u00e0. Riuscir\u00e0 Sally, con il suo amore, a far ritornare Jack sui propri passi ed evitare cos\u00ec questo disastro?",
-            "popularity": 90.0175,
+            "popularity": 88.2999,
             "poster_path": "/e7BbNMsW3FTbHeLwHzldXw8YKCc.jpg",
             "release_date": "1993-10-09",
             "softcore": false,
             "video": false,
             "vote_average": 7.848,
-            "vote_count": 10713,
+            "vote_count": 10719,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
         {
             "adult": false,
-            "backdrop_path": "/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+            "backdrop_path": "/npXZNWjOEYrqdMDPQ11SGBrXqAG.jpg",
             "genre_ids": [
                 28,
                 35
@@ -359,13 +358,13 @@
             "original_language": "en",
             "original_title": "Runner",
             "overview": "Mentre sono impegnati in una corsa contro il tempo per portare a termine la consegna dell'unica speranza per salvare la vita di una bambina in pericolo, un ex soldato e il suo improbabile partner diventano il bersaglio di uno spietato cartello che tenta di ucciderli in tutti i modi.",
-            "popularity": 283.0384,
+            "popularity": 262.417,
             "poster_path": "/y2JldODg7WqeAZC9MRKshA2hSmq.jpg",
             "release_date": "2026-09-07",
             "softcore": false,
             "video": false,
-            "vote_average": 8.305,
-            "vote_count": 499,
+            "vote_average": 8.283,
+            "vote_count": 527,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -381,13 +380,13 @@
             "original_language": "en",
             "original_title": "The Love Hypothesis",
             "overview": "Basato sul best-seller del New York Times, The Love Hypothesis: Il teorema dell'amore racconta la storia di Olive, una dottoranda che bacia impulsivamente il professore pi\u00f9 minaccioso del suo dipartimento, Adam Carlsen. Il bisogno di entrambi di una falsa relazione si trasforma in un esperimento di chimica che potrebbe in realt\u00e0 risolversi nell'amore.",
-            "popularity": 106.6841,
+            "popularity": 91.687,
             "poster_path": "/5wJMjjorqHRe4cNpB2dgiUVvveF.jpg",
             "release_date": "2026-09-23",
             "softcore": false,
             "video": false,
-            "vote_average": 8.059,
-            "vote_count": 585,
+            "vote_average": 8.032,
+            "vote_count": 594,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -403,13 +402,13 @@
             "original_language": "en",
             "original_title": "Project Hail Mary",
             "overview": "L\u2019insegnante di scienze Ryland Grace si sveglia su un\u2019astronave lontano anni luce da casa senza alcun ricordo di chi sia o di come sia arrivato l\u00ec. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l\u2019enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovr\u00e0 fare affidamento sulle sue conoscenze scientifiche e sulle sue capacit\u00e0 di pensare fuori dagli schemi per salvare dall\u2019estinzione la vita sulla Terra, mentre un'inaspettata amicizia gli far\u00e0 capire che non \u00e8 solo in questa impresa.",
-            "popularity": 93.178,
+            "popularity": 95.1887,
             "poster_path": "/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
             "release_date": "2026-03-15",
             "softcore": false,
             "video": false,
-            "vote_average": 8.634,
-            "vote_count": 8275,
+            "vote_average": 8.6,
+            "vote_count": 8283,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -425,7 +424,7 @@
             "original_language": "en",
             "original_title": "War of the Worlds",
             "overview": "",
-            "popularity": 87.7715,
+            "popularity": 86.2263,
             "poster_path": "/vfYUXnQ1sNXxIm0DDiU6Vdmhz7i.jpg",
             "release_date": "2025-07-29",
             "softcore": false,
@@ -437,24 +436,25 @@
         },
         {
             "adult": false,
-            "backdrop_path": "/ffdqHMWkh1h9MABwIfbfRJhgFW6.jpg",
+            "backdrop_path": "/8FCHJ21JBQOgATY2WI8vwYAiXg8.jpg",
             "genre_ids": [
-                28,
+                36,
+                18,
                 53,
-                878
+                10752
             ],
-            "id": 218,
-            "title": "Terminator",
+            "id": 205596,
+            "title": "The Imitation Game",
             "original_language": "en",
-            "original_title": "The Terminator",
-            "overview": "Anno 2029: un computer chiamato Skynet sta lottando contro un gruppo di resistenza umana, dopo aver distrutto l'umanit\u00e0 nel 1997. Skynet manda nel passato uno dei suoi guerrieri, un cyborg di sembianze umane chiamato Terminator, per uccidere Sarah Connor, la madre del leader della resistenza, prima che dia alla luce suo figlio. La resistenza manda un guerriero di nome Kyle Reese nel 1984 per proteggere Sarah.",
-            "popularity": 47.4165,
-            "poster_path": "/3oi7iQwFwSALSsZRtAOnRX4WUPp.jpg",
-            "release_date": "1984-10-26",
+            "original_title": "The Imitation Game",
+            "overview": "Manchester, primi anni '50. Alan Turing, brillante matematico ed esperto di crittografia, viene interrogato dall'agente di polizia che lo ha arrestato per atti osceni. Turing inizia a raccontare la sua storia partendo dall'episodio di maggiore rilevanza pubblica: il periodo, durante la Seconda Guerra Mondiale, in cui fu affidato a lui e ad un piccolo gruppo di cervelloni, fra cui un campione di scacchi e un'esperta di enigmistica, il compito di decrittare il codice Enigma, ideato dai Nazisti per comunicare le loro operazioni militari in forma segreta. \u00c8 il primo di una serie di flashback che scandaglieranno la vita dello scienziato morto suicida a 41 anni e considerato oggi uno dei padri dell'informatica in quanto ideatore di una macchina progenitrice del computer.",
+            "popularity": 60.1576,
+            "poster_path": "/5Uc82xW62CoDMbSvcopOq5Zn6uK.jpg",
+            "release_date": "2014-11-14",
             "softcore": false,
             "video": false,
-            "vote_average": 7.697,
-            "vote_count": 15267,
+            "vote_average": 7.978,
+            "vote_count": 18528,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         }
@@ -667,15 +667,6 @@
                 "plot": "L'audace esploratore Peter Quill \u00e8 inseguito dai cacciatori di taglie per aver rubato una misteriosa sfera ambita da Ronan, un essere malvagio la cui sfrenata ambizione minaccia l'intero universo. Per sfuggire all\u2019ostinato Ronan, Quill \u00e8 costretto a una scomoda alleanza con quattro improbabili personaggi: Rocket, un procione armato; Groot, un umanoide dalle sembianze di un albero; la letale ed enigmatica Gamora e il vendicativo Drax il Distruttore. Ma quando Quill scopre il vero potere della sfera e la minaccia che costituisce per il cosmo, far\u00e0 di tutto per guidare questa squadra improvvisata in un'ultima, disperata battaglia per salvare il destino della galassia."
             }
         ],
-        "1148365": [
-            {
-                "ep_id": "1148365",
-                "ep_title": "Matchbox: Il film (2026) - \u2b50 6.1",
-                "url": "https://vixcloud.co/playlist/793429?b=1&token=f2703e7a2c6a2c3831a062a9e86ff32d&expires=1796727862&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/JFawNsqIqIZbmfn7Ud7oUvJMMm.jpg",
-                "plot": "Quando un gruppo di amici si ritrova, la loro riunione prende una piega inaspettata perch\u00e9 si imbattono in un pericoloso complotto internazionale. E dovranno salvare il mondo."
-            }
-        ],
         "1236045": [
             {
                 "ep_id": "1236045",
@@ -748,15 +739,6 @@
                 "plot": "L'epica avventura segue il viaggio di un robot - l'unit\u00e0 ROZZUM 7134, abbreviato Roz - che dopo un naufragio si ritrova su un'isola disabitata dove dovr\u00e0 imparare ad adattarsi all\u2019ostile ambiente circostante, costruendo gradualmente relazioni con gli altri animali dell\u2019isola e adottando un'ochetta orfana."
             }
         ],
-        "218": [
-            {
-                "ep_id": "218",
-                "ep_title": "Terminator (1984) - \u2b50 7.7",
-                "url": "https://vixcloud.co/playlist/203830?token=c5f09d17816432f4f9d827978c75194e&expires=1797086498&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/3oi7iQwFwSALSsZRtAOnRX4WUPp.jpg",
-                "plot": "Anno 2029: un computer chiamato Skynet sta lottando contro un gruppo di resistenza umana, dopo aver distrutto l'umanit\u00e0 nel 1997. Skynet manda nel passato uno dei suoi guerrieri, un cyborg di sembianze umane chiamato Terminator, per uccidere Sarah Connor, la madre del leader della resistenza, prima che dia alla luce suo figlio. La resistenza manda un guerriero di nome Kyle Reese nel 1984 per proteggere Sarah."
-            }
-        ],
         "284052": [
             {
                 "ep_id": "284052",
@@ -773,6 +755,33 @@
                 "url": "https://vixcloud.co/playlist/201712?b=1&token=7fd8538a41fb456dbb27a877fb24c86d&expires=1797096308&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/zB9PgHUepL1aP6TJyZYuKTTUgWD.jpg",
                 "plot": "Mentre sono alle prese con il mistero che avvolge le vere origini di Peter Quill, i Guardiani della Galassia dovranno combattere per mantenere unita la propria squadra. Il gruppo di eroi dovr\u00e0 allearsi con vecchi nemici e potr\u00e0 contare sull'aiuto di inaspettati alleati."
+            }
+        ],
+        "1381078": [
+            {
+                "ep_id": "1381078",
+                "ep_title": "L'amore della tua vita (2026) - \u2b50 6.3",
+                "url": "https://vixcloud.co/playlist/794151?b=1&token=369a4992d419eb5fd5890323b68a5f38&expires=1797172209&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/z10uWG4eeuDk72IcQe3niXsQCik.jpg",
+                "plot": "L'amore della tua vita segue Maya (Margaret Qualley), il cui incontro casuale con Charlie (Gabriel Basso) d\u00e0 inizio a un amore travolgente e a un futuro impensabile. Quando quel futuro viene sconvolto, Maya si ritrova catapultata in una nuova vita, che la costringe a confrontarsi con chi \u00e8, con cosa vuole e con la possibilit\u00e0 di amare di nuovo."
+            }
+        ],
+        "1302904": [
+            {
+                "ep_id": "1302904",
+                "ep_title": "Amori & incantesimi 2 (2026) - \u2b50 6.4",
+                "url": "https://vixcloud.co/playlist/794045?b=1&token=6bbc4f4b9442794ed488ec9b44c0b416&expires=1797172211&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/fj4qveRGXSBTGBJHVSZfILDafOJ.jpg",
+                "plot": "Il film ci riporta in un mondo ricco di intrighi al chiaro di luna e di potente magia ancestrale, mentre le sorelle Owens devono affrontare l\u2019oscura maledizione che minaccia di distruggere per sempre la loro famiglia, in un imperdibile evento cinematografico all\u2019insegna di divertimento, magia e caos."
+            }
+        ],
+        "205596": [
+            {
+                "ep_id": "205596",
+                "ep_title": "The Imitation Game (2014) - \u2b50 8.0",
+                "url": "https://vixcloud.co/playlist/231758?token=3dcd6a0e7ecf6ff9706d0a4fcea5444d&expires=1797172216&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/5Uc82xW62CoDMbSvcopOq5Zn6uK.jpg",
+                "plot": "Manchester, primi anni '50. Alan Turing, brillante matematico ed esperto di crittografia, viene interrogato dall'agente di polizia che lo ha arrestato per atti osceni. Turing inizia a raccontare la sua storia partendo dall'episodio di maggiore rilevanza pubblica: il periodo, durante la Seconda Guerra Mondiale, in cui fu affidato a lui e ad un piccolo gruppo di cervelloni, fra cui un campione di scacchi e un'esperta di enigmistica, il compito di decrittare il codice Enigma, ideato dai Nazisti per comunicare le loro operazioni militari in forma segreta. \u00c8 il primo di una serie di flashback che scandaglieranno la vita dello scienziato morto suicida a 41 anni e considerato oggi uno dei padri dell'informatica in quanto ideatore di una macchina progenitrice del computer."
             }
         ]
     }
