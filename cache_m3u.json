@@ -1,6 +1,28 @@
 {
-    "last_trend_time": 1792001168.993301,
+    "last_trend_time": 1792064515.247383,
     "trends": [
+        {
+            "adult": false,
+            "backdrop_path": "/uE4qESNLo6jQrKjnUiNE42hrn1Z.jpg",
+            "id": 1381078,
+            "title": "L'amore della tua vita",
+            "original_title": "Love of Your Life",
+            "overview": "L'amore della tua vita segue Maya (Margaret Qualley), il cui incontro casuale con Charlie (Gabriel Basso) d\u00e0 inizio a un amore travolgente e a un futuro impensabile. Quando quel futuro viene sconvolto, Maya si ritrova catapultata in una nuova vita, che la costringe a confrontarsi con chi \u00e8, con cosa vuole e con la possibilit\u00e0 di amare di nuovo.",
+            "poster_path": "/z10uWG4eeuDk72IcQe3niXsQCik.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                18
+            ],
+            "popularity": 63.4495,
+            "release_date": "2026-10-07",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.152,
+            "vote_count": 23,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
         {
             "adult": false,
             "backdrop_path": "/ujUwzNV8ZkOzZonvhhHsc9KOKDf.jpg",
@@ -16,34 +38,12 @@
                 9648,
                 28
             ],
-            "popularity": 126.804,
+            "popularity": 191.1737,
             "release_date": "2026-07-15",
             "softcore": false,
             "video": false,
-            "vote_average": 7.2,
-            "vote_count": 146,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/unmKnlbrc0iHwvEbZakw3nMr0Xu.jpg",
-            "id": 1381078,
-            "title": "L'amore della tua vita",
-            "original_title": "Love of Your Life",
-            "overview": "L'amore della tua vita segue Maya (Margaret Qualley), il cui incontro casuale con Charlie (Gabriel Basso) d\u00e0 inizio a un amore travolgente e a un futuro impensabile. Quando quel futuro viene sconvolto, Maya si ritrova catapultata in una nuova vita, che la costringe a confrontarsi con chi \u00e8, con cosa vuole e con la possibilit\u00e0 di amare di nuovo.",
-            "poster_path": "/z10uWG4eeuDk72IcQe3niXsQCik.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                18,
-                10749
-            ],
-            "popularity": 6.5158,
-            "release_date": "2026-10-07",
-            "softcore": false,
-            "video": false,
-            "vote_average": 6.7,
-            "vote_count": 8,
+            "vote_average": 7.153,
+            "vote_count": 170,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -60,12 +60,35 @@
                 28,
                 14
             ],
-            "popularity": 56.1672,
+            "popularity": 96.8201,
             "release_date": "2026-10-13",
             "softcore": false,
             "video": false,
-            "vote_average": 6.5,
-            "vote_count": 8,
+            "vote_average": 6.679,
+            "vote_count": 14,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4tjxYg2AbOzzG9G1YuiT2NzYhlH.jpg",
+            "id": 969681,
+            "title": "Spider-Man: Brand New Day",
+            "original_title": "Spider-Man: Brand New Day",
+            "overview": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter \u00e8 ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce pi\u00f9 il suo nome, si \u00e8 dedicato interamente alla protezione della sua citt\u00e0. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, d\u00e0 origine a una delle minacce pi\u00f9 potenti che abbia mai affrontato.",
+            "poster_path": "/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "popularity": 768.8287,
+            "release_date": "2026-07-29",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.5,
+            "vote_count": 5459,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -83,33 +106,12 @@
                 14,
                 35
             ],
-            "popularity": 123.643,
+            "popularity": 139.895,
             "release_date": "2026-09-09",
             "softcore": false,
             "video": false,
-            "vote_average": 6.4,
-            "vote_count": 149,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/uCA9Uz9Iq7PxCc21S5cRrjyEn2x.jpg",
-            "id": 1255833,
-            "title": "Whalefall - Nella balena",
-            "original_title": "Whalefall",
-            "overview": "Dopo la morte di suo padre (Josh Brolin), Jay Gardiner (Austin Abrams) si immerge al largo della costa centrale della California alla ricerca dei suoi resti, ma viene inghiottito da un'enorme balena. Mentre \u00e8 intrappolato nel suo ventre con solo un\u2019ora di ossigeno a disposizione, Jay si rende conto che le lezioni apprese a fatica dal padre potrebbero essere la chiave per la sua fuga.",
-            "poster_path": "/auhdhcoWhQzMovY2pa71BTgDAa7.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                53
-            ],
-            "popularity": 28.7294,
-            "release_date": "2026-10-14",
-            "softcore": false,
-            "video": false,
-            "vote_average": 9.3,
-            "vote_count": 3,
+            "vote_average": 6.331,
+            "vote_count": 157,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -124,13 +126,13 @@
             "original_language": "en",
             "original_title": "Animals",
             "overview": "Dopo il rapimento del figlio, un candidato a sindaco di Los Angeles e la moglie tentano di racimolare il riscatto affrontando scelte che rischiano di distruggere la loro vita.",
-            "popularity": 269.1292,
+            "popularity": 269.6434,
             "poster_path": "/2bSbPh4m29yW4vj3zLWFGou9E9K.jpg",
             "release_date": "2026-10-09",
             "softcore": false,
             "video": false,
-            "vote_average": 7.346,
-            "vote_count": 331,
+            "vote_average": 7.236,
+            "vote_count": 360,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -146,59 +148,13 @@
             "original_language": "hi",
             "original_title": "\u0930\u093f\u092a\u094b\u0930\u094d\u091f\u093f\u0902\u0917 \u0932\u093e\u0907\u0935",
             "overview": "",
-            "popularity": 114.7854,
+            "popularity": 128.2849,
             "poster_path": "/72ETmrsQGk8guVo1GV8Sf7EygOe.jpg",
             "release_date": "2026-10-09",
             "softcore": false,
             "video": false,
             "vote_average": 8.1,
             "vote_count": 4,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
-            "genre_ids": [
-                12,
-                18,
-                878
-            ],
-            "id": 157336,
-            "title": "Interstellar",
-            "original_language": "en",
-            "original_title": "Interstellar",
-            "overview": "In seguito alla scoperta di un cunicolo spazio-temporale, un gruppo di esploratori si avventura in una eroica missione per tentare di superare i limiti della conquista spaziale e oltrepassare le distanze che fino a quel momento avevano reso impraticabili i viaggi interstellari. L'obiettivo \u00e8 quello di trovare nuovi luoghi dove coltivare il granoturco, l'unica coltivazione rimasta dopo un drastico cambiamento climatico che ha colpito soprattutto l'agricoltura.",
-            "popularity": 76.9308,
-            "poster_path": "/bMKiLh0mES4Uiococ240lbbTGXQ.jpg",
-            "release_date": "2014-11-04",
-            "softcore": false,
-            "video": false,
-            "vote_average": 8.49,
-            "vote_count": 41479,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/58D9nalUYW5L5K0guw7hcpsEJBH.jpg",
-            "genre_ids": [
-                53,
-                18,
-                80
-            ],
-            "id": 1492640,
-            "title": "UNABOMBER",
-            "original_language": "en",
-            "original_title": "UNABOMBER",
-            "overview": "Il percorso di Ted Kaczynski da prodigio di Harvard, e cavia per esperimenti, a Unabomber.",
-            "popularity": 54.4118,
-            "poster_path": "/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-            "release_date": "2026-09-25",
-            "softcore": false,
-            "video": false,
-            "vote_average": 6.565,
-            "vote_count": 453,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -216,13 +172,59 @@
             "original_language": "en",
             "original_title": "The Wild Robot",
             "overview": "L'epica avventura segue il viaggio di un robot - l'unit\u00e0 ROZZUM 7134, abbreviato Roz - che dopo un naufragio si ritrova su un'isola disabitata dove dovr\u00e0 imparare ad adattarsi all\u2019ostile ambiente circostante, costruendo gradualmente relazioni con gli altri animali dell\u2019isola e adottando un'ochetta orfana.",
-            "popularity": 90.2348,
+            "popularity": 124.8303,
             "poster_path": "/rTLuc7yMbrkl1V9uocfoRcjJqdm.jpg",
             "release_date": "2024-09-12",
             "softcore": false,
             "video": false,
             "vote_average": 8.309,
-            "vote_count": 6721,
+            "vote_count": 6725,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8sNiAPPYU14PUepFNeSNGUTiHW.jpg",
+            "genre_ids": [
+                12,
+                18,
+                878
+            ],
+            "id": 157336,
+            "title": "Interstellar",
+            "original_language": "en",
+            "original_title": "Interstellar",
+            "overview": "In seguito alla scoperta di un cunicolo spazio-temporale, un gruppo di esploratori si avventura in una eroica missione per tentare di superare i limiti della conquista spaziale e oltrepassare le distanze che fino a quel momento avevano reso impraticabili i viaggi interstellari. L'obiettivo \u00e8 quello di trovare nuovi luoghi dove coltivare il granoturco, l'unica coltivazione rimasta dopo un drastico cambiamento climatico che ha colpito soprattutto l'agricoltura.",
+            "popularity": 90.225,
+            "poster_path": "/bMKiLh0mES4Uiococ240lbbTGXQ.jpg",
+            "release_date": "2014-11-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.491,
+            "vote_count": 41491,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/w4hk4QG05nDuSgimpa7XAM6OyPX.jpg",
+            "genre_ids": [
+                878,
+                14,
+                28
+            ],
+            "id": 76757,
+            "title": "Jupiter - Il destino dell'universo",
+            "original_language": "en",
+            "original_title": "Jupiter Ascending",
+            "overview": "Dalle strade di Chicago alle galassie lontane e vertiginose dello spazio, Jupiter Il Destino dell\u2019Universo narra la storia di Jupiter Jones (Mila Kunis), che, nata sotto una buona stella, mostra segni d\u2019esser predestinata a grandi cose. Una volta cresciuta, Jupiter continua ad avere grandi sogni, ma si sveglia in un'amara realt\u00e0 fatta di un lavoro di pulizia di case altrui, ed una vita difficile. Solo quando Caine (Channing Tatum), un cacciatore ed ex-militare geneticamente modificato, arriva sulla Terra per rintracciarla, Jupiter comincia ad intravedere il destino che le \u00e8 stato prospettato: possiede infatti la firma genetica che la contrassegna come prossima, in linea di successione, di una straordinaria eredit\u00e0 che potrebbe alterare l'equilibrio dell'intero cosmo.",
+            "popularity": 61.1962,
+            "poster_path": "/7mnUaNKeuaVWUDNl7lUeviflLqw.jpg",
+            "release_date": "2015-02-04",
+            "softcore": false,
+            "video": false,
+            "vote_average": 5.5,
+            "vote_count": 7276,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -240,13 +242,13 @@
             "original_language": "en",
             "original_title": "Toy Story 5",
             "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
-            "popularity": 149.9692,
+            "popularity": 162.0222,
             "poster_path": "/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
             "release_date": "2026-06-17",
             "softcore": false,
             "video": false,
-            "vote_average": 8.3,
-            "vote_count": 2598,
+            "vote_average": 8.287,
+            "vote_count": 2606,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -265,13 +267,13 @@
             "original_language": "en",
             "original_title": "Zootopia 2",
             "overview": "Dopo aver risolto il caso pi\u00f9 importante nella storia di Zootropolis, i poliziotti alle prime armi Judy Hopps e Nick Wilde scoprono che la loro collaborazione non \u00e8 cos\u00ec solida come pensavano quando il capo Bogo ordina loro di unirsi al programma di consulenza \"Partners in Crisis\". Ma non ci vuole molto perch\u00e9 la loro collaborazione venga messa a dura prova quando si ritrovano sulle tracce tortuose di un mistero legato all'arrivo di un serpente velenoso nella metropoli degli animali.",
-            "popularity": 98.5402,
+            "popularity": 126.2556,
             "poster_path": "/lVesXbaSnCh0e27punAv4ZKWkxk.jpg",
             "release_date": "2025-11-26",
             "softcore": false,
             "video": false,
-            "vote_average": 7.666,
-            "vote_count": 3550,
+            "vote_average": 7.667,
+            "vote_count": 3556,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -288,59 +290,60 @@
             "original_language": "en",
             "original_title": "Avengers: Infinity War",
             "overview": "Dalla nascita dell'universo, sei gemme elementari rappresentano i vari aspetti fondamentali del cosmo e chi le possedesse tutte raggiungerebbe l'onnipotenza. \u00c8 questo l'obiettivo di Thanos, il titano pazzo che ritiene se stesso come un correttivo alla sovrappopolazione universale e pensa di essere una misura necessaria e giusta, persino benevola, mentre agli altri il suo operato appare, correttamente, come una serie di genocidi. Gli Avengers e i Guardiani della Galassia dovranno cercare di fermarlo, ma come se non bastasse la sua inarrestabile potenza ci sono dalla sua armate aliene e quattro letali \"figli\", ognuno deciso a consegnargli le gemme dell'infinito.",
-            "popularity": 96.2886,
+            "popularity": 142.7426,
             "poster_path": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
             "release_date": "2018-04-25",
             "softcore": false,
             "video": false,
-            "vote_average": 8.2,
-            "vote_count": 33143,
+            "vote_average": 8.245,
+            "vote_count": 33148,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
         {
             "adult": false,
-            "backdrop_path": "/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+            "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
             "genre_ids": [
-                12,
                 878,
-                28
+                12,
+                14
             ],
-            "id": 299534,
-            "title": "Avengers: Endgame",
+            "id": 83533,
+            "title": "Avatar: Fuoco e cenere",
             "original_language": "en",
-            "original_title": "Avengers: Endgame",
-            "overview": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo \u00e8 stata dimezzata e tra i caduti c'\u00e8 stato anche Nick Fury. Ma prima di morire questi \u00e8 riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos per\u00f2 non si pu\u00f2 risolvere con la semplice superforza e i colpi di energia...",
-            "popularity": 90.4111,
-            "poster_path": "/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
-            "release_date": "2019-04-24",
+            "original_title": "Avatar: Fire and Ash",
+            "overview": "In seguito alla devastante guerra contro la RDA e alla perdita del loro figlio maggiore, Jake Sully e Neytiri affrontano una nuova minaccia su Pandora: il Popolo della Cenere, una trib\u00f9 Na'vi violenta e assetata di potere guidata dagli spietati Varang. La famiglia di Jake deve lottare per la propria sopravvivenza e per il futuro di Pandora in un conflitto che li spinge ai loro limiti emotivi e fisici.",
+            "popularity": 127.0461,
+            "poster_path": "/kvivMhuEuzXuaj0UMjAAmrXVvWn.jpg",
+            "release_date": "2025-12-17",
             "softcore": false,
             "video": false,
-            "vote_average": 8.246,
-            "vote_count": 28999,
+            "vote_average": 7.6,
+            "vote_count": 4506,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
         {
             "adult": false,
-            "backdrop_path": "/dSfrsjhqC6lYe7LYDYnzWeXZmEl.jpg",
+            "backdrop_path": "/p5ozvmdgsmbWe0H8Xk7Rc8SCwAB.jpg",
             "genre_ids": [
-                14,
                 16,
+                12,
+                35,
                 10751
             ],
-            "id": 9479,
-            "title": "Nightmare Before Christmas",
+            "id": 1022789,
+            "title": "Inside Out 2",
             "original_language": "en",
-            "original_title": "The Nightmare Before Christmas",
-            "overview": "Jack Skeletron, il sovrano della citt\u00e0 di Halloween, vuole riprodurre la magia della citt\u00e0 di Natale, naturalmente a modo suo, e per fare ci\u00f2 rapisce proprio Babbo Natale, mettendo in pericolo il naturale equilibrio fra le festivit\u00e0. Riuscir\u00e0 Sally, con il suo amore, a far ritornare Jack sui propri passi ed evitare cos\u00ec questo disastro?",
-            "popularity": 88.2999,
-            "poster_path": "/e7BbNMsW3FTbHeLwHzldXw8YKCc.jpg",
-            "release_date": "1993-10-09",
+            "original_title": "Inside Out 2",
+            "overview": "Nella mente dell'ormai adolescente Riley, il quartier generale viene improvvisamente demolito per far posto a qualcosa di completamente inaspettato. Gioia, Tristezza, Rabbia, Paura e Disgusto, che a detta loro gestiscono da tempo un'attivit\u00e0 di successo, non sanno come comportarsi quando arriva Ansia... e sembra che non sia sola.",
+            "popularity": 143.7415,
+            "poster_path": "/mVkg1k4Iun40ZFiBQPFAxJHRZBu.jpg",
+            "release_date": "2024-06-11",
             "softcore": false,
             "video": false,
-            "vote_average": 7.848,
-            "vote_count": 10719,
+            "vote_average": 7.541,
+            "vote_count": 7058,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -356,13 +359,13 @@
             "original_language": "en",
             "original_title": "Runner",
             "overview": "Mentre sono impegnati in una corsa contro il tempo per portare a termine la consegna dell'unica speranza per salvare la vita di una bambina in pericolo, un ex soldato e il suo improbabile partner diventano il bersaglio di uno spietato cartello che tenta di ucciderli in tutti i modi.",
-            "popularity": 262.417,
+            "popularity": 265.0429,
             "poster_path": "/y2JldODg7WqeAZC9MRKshA2hSmq.jpg",
             "release_date": "2026-09-07",
             "softcore": false,
             "video": false,
-            "vote_average": 8.292,
-            "vote_count": 537,
+            "vote_average": 8.296,
+            "vote_count": 560,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -378,13 +381,13 @@
             "original_language": "en",
             "original_title": "Project Hail Mary",
             "overview": "L\u2019insegnante di scienze Ryland Grace si sveglia su un\u2019astronave lontano anni luce da casa senza alcun ricordo di chi sia o di come sia arrivato l\u00ec. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l\u2019enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovr\u00e0 fare affidamento sulle sue conoscenze scientifiche e sulle sue capacit\u00e0 di pensare fuori dagli schemi per salvare dall\u2019estinzione la vita sulla Terra, mentre un'inaspettata amicizia gli far\u00e0 capire che non \u00e8 solo in questa impresa.",
-            "popularity": 95.1887,
+            "popularity": 102.1997,
             "poster_path": "/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
             "release_date": "2026-03-15",
             "softcore": false,
             "video": false,
-            "vote_average": 8.634,
-            "vote_count": 8286,
+            "vote_average": 8.635,
+            "vote_count": 8302,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -400,13 +403,13 @@
             "original_language": "en",
             "original_title": "The Love Hypothesis",
             "overview": "Basato sul best-seller del New York Times, The Love Hypothesis: Il teorema dell'amore racconta la storia di Olive, una dottoranda che bacia impulsivamente il professore pi\u00f9 minaccioso del suo dipartimento, Adam Carlsen. Il bisogno di entrambi di una falsa relazione si trasforma in un esperimento di chimica che potrebbe in realt\u00e0 risolversi nell'amore.",
-            "popularity": 91.687,
+            "popularity": 91.193,
             "poster_path": "/5wJMjjorqHRe4cNpB2dgiUVvveF.jpg",
             "release_date": "2026-09-23",
             "softcore": false,
             "video": false,
-            "vote_average": 8.032,
-            "vote_count": 594,
+            "vote_average": 8.018,
+            "vote_count": 601,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -422,7 +425,7 @@
             "original_language": "en",
             "original_title": "War of the Worlds",
             "overview": "",
-            "popularity": 86.2263,
+            "popularity": 82.0417,
             "poster_path": "/vfYUXnQ1sNXxIm0DDiU6Vdmhz7i.jpg",
             "release_date": "2025-07-29",
             "softcore": false,
@@ -445,7 +448,7 @@
             "original_language": "es",
             "original_title": "Culpa m\u00eda",
             "overview": "Noah deve lasciare la sua citt\u00e0, il fidanzato e gli amici per trasferirsi nella villa di William Leister, il nuovo ricco marito di sua madre Rafaela. D'altra parte, 17 anni, orgogliosa e indipendente, Noah resiste a vivere in una villa circondata dal lusso. L\u00ec incontra Nick, il suo nuovo fratellastro, e lo scontro tra le loro forti personalit\u00e0 diventa evidente fin dal primo momento.",
-            "popularity": 85.4756,
+            "popularity": 77.1643,
             "poster_path": "/wXwB3KhYhvzfsDMH6JBgbfsLi8s.jpg",
             "release_date": "2023-06-08",
             "softcore": false,
@@ -473,15 +476,6 @@
                 "url": "https://vixcloud.co/playlist/262859?b=1&token=1e8d144b554ae7c15b9c9b7edaf114fb&expires=1795279370&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
                 "plot": "Dalla nascita dell'universo, sei gemme elementari rappresentano i vari aspetti fondamentali del cosmo e chi le possedesse tutte raggiungerebbe l'onnipotenza. \u00c8 questo l'obiettivo di Thanos, il titano pazzo che ritiene se stesso come un correttivo alla sovrappopolazione universale e pensa di essere una misura necessaria e giusta, persino benevola, mentre agli altri il suo operato appare, correttamente, come una serie di genocidi. Gli Avengers e i Guardiani della Galassia dovranno cercare di fermarlo, ma come se non bastasse la sua inarrestabile potenza ci sono dalla sua armate aliene e quattro letali 'figli', ognuno deciso a consegnargli le gemme dell'infinito."
-            }
-        ],
-        "299534": [
-            {
-                "ep_id": "299534",
-                "ep_title": "Avengers: Endgame (2019) - \u2b50 8.2",
-                "url": "https://vixcloud.co/playlist/649865?b=1&token=221d725144da921b55ac3ab94644d6c8&expires=1795279373&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/hj1xaEUGMiUxaFYoutlljtlkHSG.jpg",
-                "plot": "In seguito alle azioni di Thanos nel precedente Avengers: Infinity War la popolazione dell'intero universo \u00e8 stata dimezzata e tra i caduti c'\u00e8 stato anche Nick Fury. Ma prima di morire questi \u00e8 riuscito a lanciare un messaggio nello spazio alla potentissima Capitan Marvel, che tornata sulla Terra e di fronte a un gruppo di Avengers afflitto dalla sconfitta e dal lutto, vuole prendere le cose in mano. Quello che ha fatto Thanos per\u00f2 non si pu\u00f2 risolvere con la semplice superforza e i colpi di energia..."
             }
         ],
         "687163": [
@@ -529,15 +523,6 @@
                 "plot": "Mentre sono impegnati in una corsa contro il tempo per portare a termine la consegna dell'unica speranza per salvare la vita di una bambina in pericolo, un ex soldato e il suo improbabile partner diventano il bersaglio di uno spietato cartello che tenta di ucciderli in tutti i modi."
             }
         ],
-        "1492640": [
-            {
-                "ep_id": "1492640",
-                "ep_title": "UNABOMBER (2026) - \u2b50 6.7",
-                "url": "https://vixcloud.co/playlist/790537?b=1&token=536ee58f4601e133327d03bf462ac0cc&expires=1796039927&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/39aMkR8Y5vhCG9dTkjiqRl8AVqp.jpg",
-                "plot": "Il percorso di Ted Kaczynski da prodigio di Harvard, e cavia per esperimenti, a Unabomber."
-            }
-        ],
         "755898": [
             {
                 "ep_id": "755898",
@@ -581,15 +566,6 @@
                 "url": "https://vixcloud.co/playlist/793125?b=1&token=60643489784ee110d33ee374fe51e90c&expires=1796935852&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/vKHjwe9tSPWSkiv3m8Iq1nVedOT.jpg",
                 "plot": "Sono trascorsi quattro anni dagli eventi di No Way Home e Peter \u00e8 ormai un adulto che vive completamente da solo, essendosi volontariamente cancellato dalla vita e dai ricordi di coloro che ama. Combattendo il crimine in una New York che non conosce pi\u00f9 il suo nome, si \u00e8 dedicato interamente alla protezione della sua citt\u00e0. Uno Spider-Man a tempo pieno. Ma con l'intensificarsi delle richieste, la pressione innesca una sorprendente evoluzione fisica che minaccia la sua stessa esistenza, mentre, una strana nuova serie di crimini, d\u00e0 origine a una delle minacce pi\u00f9 potenti che abbia mai affrontato."
-            }
-        ],
-        "9479": [
-            {
-                "ep_id": "9479",
-                "ep_title": "Nightmare Before Christmas (1993) - \u2b50 7.8",
-                "url": "https://vixcloud.co/playlist/214327?b=1&token=d210352bc6a5870a40f785d222385a58&expires=1796935860&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/e7BbNMsW3FTbHeLwHzldXw8YKCc.jpg",
-                "plot": "Jack Skeletron, il sovrano della citt\u00e0 di Halloween, vuole riprodurre la magia della citt\u00e0 di Natale, naturalmente a modo suo, e per fare ci\u00f2 rapisce proprio Babbo Natale, mettendo in pericolo il naturale equilibrio fra le festivit\u00e0. Riuscir\u00e0 Sally, con il suo amore, a far ritornare Jack sui propri passi ed evitare cos\u00ec questo disastro?"
             }
         ],
         "1184918": [
@@ -644,6 +620,42 @@
                 "url": "https://vixcloud.co/playlist/323739?b=1&token=8e84e2523358475383c35b2340e85805&expires=1797185179&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/iunkSeLonYKVmp89zCJuJVptUTU.jpg",
                 "plot": "Thor \u00e8 imprigionato dall\u2019altro lato dell\u2019universo senza il suo potente martello e deve lottare contro il tempo per tornare ad Asgard e fermare il Ragnarok \u2014 la distruzione del suo mondo e la fine della civilt\u00e0 asgardiana \u2014 per mano di una nuova e onnipotente minaccia, la spietata Hela. Ma prima dovr\u00e0 sopravvivere a un letale scontro fra gladiatori che lo metter\u00e0 contro il suo vecchio alleato e compagno nel team degli Avengers: l\u2019Incredibile Hulk."
+            }
+        ],
+        "76757": [
+            {
+                "ep_id": "76757",
+                "ep_title": "Jupiter - Il destino dell'universo (2015) - \u2b50 5.5",
+                "url": "https://vixcloud.co/playlist/310281?token=9218e012c5da7aa6b255c70593570fe7&expires=1797248521&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/7mnUaNKeuaVWUDNl7lUeviflLqw.jpg",
+                "plot": "Dalle strade di Chicago alle galassie lontane e vertiginose dello spazio, Jupiter Il Destino dell\u2019Universo narra la storia di Jupiter Jones (Mila Kunis), che, nata sotto una buona stella, mostra segni d\u2019esser predestinata a grandi cose. Una volta cresciuta, Jupiter continua ad avere grandi sogni, ma si sveglia in un'amara realt\u00e0 fatta di un lavoro di pulizia di case altrui, ed una vita difficile. Solo quando Caine (Channing Tatum), un cacciatore ed ex-militare geneticamente modificato, arriva sulla Terra per rintracciarla, Jupiter comincia ad intravedere il destino che le \u00e8 stato prospettato: possiede infatti la firma genetica che la contrassegna come prossima, in linea di successione, di una straordinaria eredit\u00e0 che potrebbe alterare l'equilibrio dell'intero cosmo."
+            }
+        ],
+        "83533": [
+            {
+                "ep_id": "83533",
+                "ep_title": "Avatar: Fuoco e cenere (2025) - \u2b50 7.6",
+                "url": "https://vixcloud.co/playlist/694871?token=f91202acdd3686aa222ee53ad3210488&expires=1797248522&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/kvivMhuEuzXuaj0UMjAAmrXVvWn.jpg",
+                "plot": "In seguito alla devastante guerra contro la RDA e alla perdita del loro figlio maggiore, Jake Sully e Neytiri affrontano una nuova minaccia su Pandora: il Popolo della Cenere, una trib\u00f9 Na'vi violenta e assetata di potere guidata dagli spietati Varang. La famiglia di Jake deve lottare per la propria sopravvivenza e per il futuro di Pandora in un conflitto che li spinge ai loro limiti emotivi e fisici."
+            }
+        ],
+        "1022789": [
+            {
+                "ep_id": "1022789",
+                "ep_title": "Inside Out 2 (2024) - \u2b50 7.5",
+                "url": "https://vixcloud.co/playlist/256571?token=bfedf6268066d2fa1162f719a90365b5&expires=1797248524&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/mVkg1k4Iun40ZFiBQPFAxJHRZBu.jpg",
+                "plot": "Nella mente dell'ormai adolescente Riley, il quartier generale viene improvvisamente demolito per far posto a qualcosa di completamente inaspettato. Gioia, Tristezza, Rabbia, Paura e Disgusto, che a detta loro gestiscono da tempo un'attivit\u00e0 di successo, non sanno come comportarsi quando arriva Ansia... e sembra che non sia sola."
+            }
+        ],
+        "284054": [
+            {
+                "ep_id": "284054",
+                "ep_title": "Black Panther (2018) - \u2b50 7.4",
+                "url": "https://vixcloud.co/playlist/597268?b=1&token=8b4d2a981ea25872b971c5855717bf83&expires=1797248528&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/5mxlzNZFeuWRcAZV6ECOwYfN7oZ.jpg",
+                "plot": "Il Wakanda, nazione dell'Africa centro-Orientale, si nasconde agli occhi del mondo. In apparenza Paese povero di risorse e speranze, nei fatti il pi\u00f9 tecnologicamente avanzato del mondo, grazie alla presenza del vibranio, minerale alieno dalle inimmaginabili potenzialit\u00e0. Quando T'challa sale sul trono, divenendo cos\u00ec la nuova Pantera Nera che protegge il proprio popolo, intende preservare la tradizione, ma un ritorno inatteso a Wakanda lo obbligher\u00e0 a rivedere i propri piani.  Dopo il discusso caso di Wonder Woman a casa DC, \u00e8 la volta di Black Panther, trasposizione su grande schermo delle avventure del pi\u00f9 famoso e iconico supereroe di pelle nera."
             }
         ]
     }
