@@ -654,6 +654,15 @@
                 "poster": "https://image.tmdb.org/t/p/w500/ndo3IkcvMhhE4g6ZIlxZpwdT5ve.jpg",
                 "plot": "Captain Marvel segue il percorso di Carol Danvers, colei che diventer\u00e0 uno degli eroi pi\u00f9 potenti dell'universo. Quando una guerra galattica tra due razze aliene raggiunge la Terra, Danvers si ritrova al centro del vortice insieme a un piccolo gruppo di alleati."
             }
+        ],
+        "363088": [
+            {
+                "ep_id": "363088",
+                "ep_title": "Ant-Man and the Wasp (2018) - \u2b50 6.9",
+                "url": "https://vixcloud.co/playlist/780240?token=af26295759a9f79709b77a368a627261&expires=1797341538&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/lNs2tFWH7OMJzhF2sLBsQA2MNrM.jpg",
+                "plot": "Alle prese con la ricerca di un equilibrio tra la sua vita privata e le responsabilit\u00e0 di supereroe, Scott Lang si ritrova ancora una volta ad indossare i panni di Ant-Man e insieme a Hope van Dyne, in arte Wasp, andr\u00e0 alla scoperta di incredibili segreti del passato."
+            }
         ]
     }
 }
