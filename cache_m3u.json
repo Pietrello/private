@@ -1,5 +1,5 @@
 {
-    "last_trend_time": 1792155957.192638,
+    "last_trend_time": 1792238605.721073,
     "trends": [
         {
             "adult": false,
@@ -15,17 +15,17 @@
                 28,
                 53
             ],
-            "popularity": 10.9215,
+            "popularity": 110.6207,
             "release_date": "2026-10-16",
             "softcore": false,
             "video": false,
-            "vote_average": 6.8,
-            "vote_count": 5,
+            "vote_average": 7.0,
+            "vote_count": 22,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
             "adult": false,
-            "backdrop_path": "/wUe0QbbPDU2BD3L2QnsZlAr55Je.jpg",
+            "backdrop_path": "/6GXqVvL20Y0MpyVP30WoI2NPK69.jpg",
             "id": 1288069,
             "title": "Tenzing",
             "original_title": "Tenzing",
@@ -37,56 +37,12 @@
                 18,
                 36
             ],
-            "popularity": 7.478,
+            "popularity": 68.4263,
             "release_date": "2026-10-09",
             "softcore": false,
             "video": false,
-            "vote_average": 7.0,
-            "vote_count": 5,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-            "id": 1153576,
-            "title": "Street Fighter",
-            "original_title": "Street Fighter",
-            "overview": "1993. Un\u2019epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un\u2019ombra. Una cospirazione letale che costringer\u00e0 Ryu e Ken non solo a combattere tra loro, ma a guardare in faccia i demoni del passato. Perch\u00e9 qui non esistono seconde possibilit\u00e0: se perdi, \u00e8 GAME OVER.",
-            "poster_path": "/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-            "media_type": "movie",
-            "original_language": "en",
-            "genre_ids": [
-                28,
-                14
-            ],
-            "popularity": 117.2294,
-            "release_date": "2026-10-13",
-            "softcore": false,
-            "video": false,
-            "vote_average": 6.5,
-            "vote_count": 32,
-            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/zN5mRDu6jOYt5EJGYGjhWgOGwor.jpg",
-            "id": 1623256,
-            "title": "Stormen",
-            "original_title": "Stormen",
-            "overview": "Quando una tempesta intrappola vecchi compagni universitari in un lussuoso lodge, la loro festa di compleanno civile si trasforma in un ciclone di tradimenti, rancori e caos senza filtri.",
-            "poster_path": "/kjAsuaDcNsemYTQ8tUorpVE1FJb.jpg",
-            "media_type": "movie",
-            "original_language": "sv",
-            "genre_ids": [
-                35,
-                18
-            ],
-            "popularity": 39.5119,
-            "release_date": "2026-10-15",
-            "softcore": false,
-            "video": false,
-            "vote_average": 8.3,
-            "vote_count": 10,
+            "vote_average": 8.0,
+            "vote_count": 28,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -104,12 +60,56 @@
                 9648,
                 28
             ],
-            "popularity": 214.21,
+            "popularity": 240.126,
             "release_date": "2026-07-15",
             "softcore": false,
             "video": false,
-            "vote_average": 7.1,
-            "vote_count": 189,
+            "vote_average": 6.864,
+            "vote_count": 220,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+            "id": 1153576,
+            "title": "Street Fighter",
+            "original_title": "Street Fighter",
+            "overview": "1993. Un\u2019epoca di sale giochi, monete consumate e leggende nate a colpi di joystick. Ryu (Andrew Koji) e Ken Masters (Noah Centineo), Street Fighters un tempo inseparabili, oggi sono lontani, divisi da scelte e ferite mai rimarginate. Il destino li richiama sul ring quando la misteriosa Chun-Li (Callina Liang) li arruola per il nuovo World Warrior Tournament: un torneo spietato dove i pugni decidono il futuro e la furia riscrive il destino. Ma dietro lo spettacolo della battle royale si muove un\u2019ombra. Una cospirazione letale che costringer\u00e0 Ryu e Ken non solo a combattere tra loro, ma a guardare in faccia i demoni del passato. Perch\u00e9 qui non esistono seconde possibilit\u00e0: se perdi, \u00e8 GAME OVER.",
+            "poster_path": "/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+            "media_type": "movie",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                14
+            ],
+            "popularity": 161.4845,
+            "release_date": "2026-10-13",
+            "softcore": false,
+            "video": false,
+            "vote_average": 6.214,
+            "vote_count": 49,
+            "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fv9BAXOrPJXEhycgWF3Qb8aczqe.jpg",
+            "id": 1487317,
+            "title": "Terapia creativa",
+            "original_title": "Lo dejamos ac\u00e1",
+            "overview": "Un famoso psicoanalista, deluso dalla terapia tradizionale, inizia a intervenire segretamente nella vita dei suoi pazienti, ottenendo risultati notevoli, fino a quando uno scrittore bloccato dalla creativit\u00e0 entra nel suo studio.",
+            "poster_path": "/vaok2Dm7suKG2gEY2cKBXL4OMYf.jpg",
+            "media_type": "movie",
+            "original_language": "es",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "popularity": 18.2837,
+            "release_date": "2026-10-08",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 6,
             "category_prefix": "\ud83d\udd25 I Pi\u00f9 Visti Oggi"
         },
         {
@@ -124,13 +124,35 @@
             "original_language": "en",
             "original_title": "Animals",
             "overview": "Dopo il rapimento del figlio, un candidato a sindaco di Los Angeles e la moglie tentano di racimolare il riscatto affrontando scelte che rischiano di distruggere la loro vita.",
-            "popularity": 262.6055,
+            "popularity": 244.8255,
             "poster_path": "/2bSbPh4m29yW4vj3zLWFGou9E9K.jpg",
             "release_date": "2026-10-09",
             "softcore": false,
             "video": false,
-            "vote_average": 7.2,
-            "vote_count": 380,
+            "vote_average": 7.15,
+            "vote_count": 411,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
+            "genre_ids": [
+                80,
+                53
+            ],
+            "id": 1389172,
+            "title": "\u0930\u093f\u092a\u094b\u0930\u094d\u091f\u093f\u0902\u0917 \u0932\u093e\u0907\u0935",
+            "original_language": "hi",
+            "original_title": "\u0930\u093f\u092a\u094b\u0930\u094d\u091f\u093f\u0902\u0917 \u0932\u093e\u0907\u0935",
+            "overview": "",
+            "popularity": 131.0874,
+            "poster_path": "/72ETmrsQGk8guVo1GV8Sf7EygOe.jpg",
+            "release_date": "2026-10-09",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.1,
+            "vote_count": 4,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -147,58 +169,13 @@
             "original_language": "en",
             "original_title": "The Batman",
             "overview": "Quando un killer prende di mira l\u2019\u00e9lite di Gotham con una serie di malvagi stratagemmi, una scia di indizi criptici spinge il pi\u00f9 grande detective del mondo a indagare nei bassifondi, incontrando personaggi come Selina Kyle alias Catwoman, Oswald Cobblepot alias il Pinguino, Carmine Falcone e Edward Nashton alias l\u2019Enigmista. Mentre le prove iniziano a condurlo pi\u00f9 vicino alla soluzione e la portata dei piani del malfattore diventa chiara, Batman deve stringere nuove alleanze, smascherare il colpevole e rendere giustizia all\u2019abuso di potere e alla corruzione che da tempo affliggono Gotham City.",
-            "popularity": 96.3047,
+            "popularity": 89.2737,
             "poster_path": "/kfrNjwHRw0ORsPx8Scr3JJQuy1I.jpg",
             "release_date": "2022-03-01",
             "softcore": false,
             "video": false,
-            "vote_average": 7.672,
-            "vote_count": 12682,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
-            "genre_ids": [
-                12,
-                14,
-                28
-            ],
-            "id": 122,
-            "title": "Il Signore degli Anelli - Il ritorno del re",
-            "original_language": "en",
-            "original_title": "The Lord of the Rings: The Return of the King",
-            "overview": "Le forze di Sauron hanno attaccato la capitale di Gondor, Minas Tirith, nel suo assedio finale contro l'umanit\u00e0. Tenuto da un debole sovrintendente, quello che una volta era un fastoso regno non ha mai avuto cos\u00ec bisogno del proprio re. Mentre Gandalf tenta disperatamente di spingere lo smembrato esercito di Gondor ad agire, Th\u00e8oden si unisce ai guerrieri di Rohan per combattere assieme a loro. Pieno di coraggio e di appassionata lealt\u00e0, l'esercito degli umani non riesce per\u00f2 a tener testa alle numerosissime legioni nemiche che giungono su tutto il regno. Ogni vittoria \u00e8 accompagnata da un grande sacrificio. Malgrado le numerose perdite, la Compagnia si lancia verso la pi\u00f9 grande battaglia mai affrontata, unita dall'unico scopo di riuscire a tenere Sauron distratto e dare a Frodo una occasione per portare a termine la sua spedizione...",
-            "popularity": 80.5057,
-            "poster_path": "/eCua9No8HqVxGajDQrG8mvRCtJM.jpg",
-            "release_date": "2003-12-17",
-            "softcore": false,
-            "video": false,
-            "vote_average": 8.504,
-            "vote_count": 27587,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/faJB8DXU0LXwq5ebMLj5drz8S4N.jpg",
-            "genre_ids": [
-                80,
-                53
-            ],
-            "id": 1389172,
-            "title": "\u0930\u093f\u092a\u094b\u0930\u094d\u091f\u093f\u0902\u0917 \u0932\u093e\u0907\u0935",
-            "original_language": "hi",
-            "original_title": "\u0930\u093f\u092a\u094b\u0930\u094d\u091f\u093f\u0902\u0917 \u0932\u093e\u0907\u0935",
-            "overview": "",
-            "popularity": 126.3339,
-            "poster_path": "/72ETmrsQGk8guVo1GV8Sf7EygOe.jpg",
-            "release_date": "2026-10-09",
-            "softcore": false,
-            "video": false,
-            "vote_average": 8.1,
-            "vote_count": 4,
+            "vote_average": 7.7,
+            "vote_count": 12687,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -216,13 +193,36 @@
             "original_language": "en",
             "original_title": "The Wild Robot",
             "overview": "L'epica avventura segue il viaggio di un robot - l'unit\u00e0 ROZZUM 7134, abbreviato Roz - che dopo un naufragio si ritrova su un'isola disabitata dove dovr\u00e0 imparare ad adattarsi all\u2019ostile ambiente circostante, costruendo gradualmente relazioni con gli altri animali dell\u2019isola e adottando un'ochetta orfana.",
-            "popularity": 94.0032,
+            "popularity": 89.5202,
             "poster_path": "/rTLuc7yMbrkl1V9uocfoRcjJqdm.jpg",
             "release_date": "2024-09-12",
             "softcore": false,
             "video": false,
-            "vote_average": 8.3,
-            "vote_count": 6728,
+            "vote_average": 8.309,
+            "vote_count": 6734,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
+            "genre_ids": [
+                12,
+                14,
+                28
+            ],
+            "id": 122,
+            "title": "Il Signore degli Anelli - Il ritorno del re",
+            "original_language": "en",
+            "original_title": "The Lord of the Rings: The Return of the King",
+            "overview": "Le forze di Sauron hanno attaccato la capitale di Gondor, Minas Tirith, nel suo assedio finale contro l'umanit\u00e0. Tenuto da un debole sovrintendente, quello che una volta era un fastoso regno non ha mai avuto cos\u00ec bisogno del proprio re. Mentre Gandalf tenta disperatamente di spingere lo smembrato esercito di Gondor ad agire, Th\u00e8oden si unisce ai guerrieri di Rohan per combattere assieme a loro. Pieno di coraggio e di appassionata lealt\u00e0, l'esercito degli umani non riesce per\u00f2 a tener testa alle numerosissime legioni nemiche che giungono su tutto il regno. Ogni vittoria \u00e8 accompagnata da un grande sacrificio. Malgrado le numerose perdite, la Compagnia si lancia verso la pi\u00f9 grande battaglia mai affrontata, unita dall'unico scopo di riuscire a tenere Sauron distratto e dare a Frodo una occasione per portare a termine la sua spedizione...",
+            "popularity": 76.2961,
+            "poster_path": "/eCua9No8HqVxGajDQrG8mvRCtJM.jpg",
+            "release_date": "2003-12-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.504,
+            "vote_count": 27593,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Netflix"
         },
@@ -240,13 +240,84 @@
             "original_language": "en",
             "original_title": "Toy Story 5",
             "overview": "Quando Bonnie riceve in regalo un tablet Lilypad e ne diventa ossessionata, per Buzz, Woody, Jessie e il resto della banda, il lavoro si complica enormemente: dovranno affrontare una nuova, temibile minaccia al mondo del gioco.",
-            "popularity": 157.4042,
+            "popularity": 155.5762,
             "poster_path": "/i7eQGriXCmNpScSVzepNHn9nMPM.jpg",
             "release_date": "2026-06-17",
             "softcore": false,
             "video": false,
-            "vote_average": 8.288,
-            "vote_count": 2619,
+            "vote_average": 8.285,
+            "vote_count": 2632,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
+            "genre_ids": [
+                12,
+                28,
+                878
+            ],
+            "id": 299536,
+            "title": "Avengers: Infinity War",
+            "original_language": "en",
+            "original_title": "Avengers: Infinity War",
+            "overview": "Dalla nascita dell'universo, sei gemme elementari rappresentano i vari aspetti fondamentali del cosmo e chi le possedesse tutte raggiungerebbe l'onnipotenza. \u00c8 questo l'obiettivo di Thanos, il titano pazzo che ritiene se stesso come un correttivo alla sovrappopolazione universale e pensa di essere una misura necessaria e giusta, persino benevola, mentre agli altri il suo operato appare, correttamente, come una serie di genocidi. Gli Avengers e i Guardiani della Galassia dovranno cercare di fermarlo, ma come se non bastasse la sua inarrestabile potenza ci sono dalla sua armate aliene e quattro letali \"figli\", ognuno deciso a consegnargli le gemme dell'infinito.",
+            "popularity": 115.6043,
+            "poster_path": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
+            "release_date": "2018-04-25",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.245,
+            "vote_count": 33163,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lgotja3xMoJZbynwHfcQcJAEMWH.jpg",
+            "genre_ids": [
+                16,
+                12,
+                35,
+                9648,
+                10751
+            ],
+            "id": 1084242,
+            "title": "Zootropolis 2",
+            "original_language": "en",
+            "original_title": "Zootopia 2",
+            "overview": "Dopo aver risolto il caso pi\u00f9 importante nella storia di Zootropolis, i poliziotti alle prime armi Judy Hopps e Nick Wilde scoprono che la loro collaborazione non \u00e8 cos\u00ec solida come pensavano quando il capo Bogo ordina loro di unirsi al programma di consulenza \"Partners in Crisis\". Ma non ci vuole molto perch\u00e9 la loro collaborazione venga messa a dura prova quando si ritrovano sulle tracce tortuose di un mistero legato all'arrivo di un serpente velenoso nella metropoli degli animali.",
+            "popularity": 108.1505,
+            "poster_path": "/lVesXbaSnCh0e27punAv4ZKWkxk.jpg",
+            "release_date": "2025-11-26",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.668,
+            "vote_count": 3563,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
+            "genre_ids": [
+                878,
+                12,
+                14
+            ],
+            "id": 83533,
+            "title": "Avatar: Fuoco e cenere",
+            "original_language": "en",
+            "original_title": "Avatar: Fire and Ash",
+            "overview": "In seguito alla devastante guerra contro la RDA e alla perdita del loro figlio maggiore, Jake Sully e Neytiri affrontano una nuova minaccia su Pandora: il Popolo della Cenere, una trib\u00f9 Na'vi violenta e assetata di potere guidata dagli spietati Varang. La famiglia di Jake deve lottare per la propria sopravvivenza e per il futuro di Pandora in un conflitto che li spinge ai loro limiti emotivi e fisici.",
+            "popularity": 101.8079,
+            "poster_path": "/kvivMhuEuzXuaj0UMjAAmrXVvWn.jpg",
+            "release_date": "2025-12-17",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.7,
+            "vote_count": 4521,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -264,82 +335,13 @@
             "original_language": "en",
             "original_title": "Inside Out 2",
             "overview": "Nella mente dell'ormai adolescente Riley, il quartier generale viene improvvisamente demolito per far posto a qualcosa di completamente inaspettato. Gioia, Tristezza, Rabbia, Paura e Disgusto, che a detta loro gestiscono da tempo un'attivit\u00e0 di successo, non sanno come comportarsi quando arriva Ansia... e sembra che non sia sola.",
-            "popularity": 99.4339,
+            "popularity": 97.8491,
             "poster_path": "/mVkg1k4Iun40ZFiBQPFAxJHRZBu.jpg",
             "release_date": "2024-06-11",
             "softcore": false,
             "video": false,
-            "vote_average": 7.542,
-            "vote_count": 7066,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/mDfJG3LC3Dqb67AZ52x3Z0jU0uB.jpg",
-            "genre_ids": [
-                12,
-                28,
-                878
-            ],
-            "id": 299536,
-            "title": "Avengers: Infinity War",
-            "original_language": "en",
-            "original_title": "Avengers: Infinity War",
-            "overview": "Dalla nascita dell'universo, sei gemme elementari rappresentano i vari aspetti fondamentali del cosmo e chi le possedesse tutte raggiungerebbe l'onnipotenza. \u00c8 questo l'obiettivo di Thanos, il titano pazzo che ritiene se stesso come un correttivo alla sovrappopolazione universale e pensa di essere una misura necessaria e giusta, persino benevola, mentre agli altri il suo operato appare, correttamente, come una serie di genocidi. Gli Avengers e i Guardiani della Galassia dovranno cercare di fermarlo, ma come se non bastasse la sua inarrestabile potenza ci sono dalla sua armate aliene e quattro letali \"figli\", ognuno deciso a consegnargli le gemme dell'infinito.",
-            "popularity": 120.2515,
-            "poster_path": "/t24aimjQLa0dyoZQEbSws7XK1U0.jpg",
-            "release_date": "2018-04-25",
-            "softcore": false,
-            "video": false,
-            "vote_average": 8.245,
-            "vote_count": 33155,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/ctiw6FZK4N36LmkjSklWEbuvlq9.jpg",
-            "genre_ids": [
-                12,
-                14,
-                28
-            ],
-            "id": 122,
-            "title": "Il Signore degli Anelli - Il ritorno del re",
-            "original_language": "en",
-            "original_title": "The Lord of the Rings: The Return of the King",
-            "overview": "Le forze di Sauron hanno attaccato la capitale di Gondor, Minas Tirith, nel suo assedio finale contro l'umanit\u00e0. Tenuto da un debole sovrintendente, quello che una volta era un fastoso regno non ha mai avuto cos\u00ec bisogno del proprio re. Mentre Gandalf tenta disperatamente di spingere lo smembrato esercito di Gondor ad agire, Th\u00e8oden si unisce ai guerrieri di Rohan per combattere assieme a loro. Pieno di coraggio e di appassionata lealt\u00e0, l'esercito degli umani non riesce per\u00f2 a tener testa alle numerosissime legioni nemiche che giungono su tutto il regno. Ogni vittoria \u00e8 accompagnata da un grande sacrificio. Malgrado le numerose perdite, la Compagnia si lancia verso la pi\u00f9 grande battaglia mai affrontata, unita dall'unico scopo di riuscire a tenere Sauron distratto e dare a Frodo una occasione per portare a termine la sua spedizione...",
-            "popularity": 80.5057,
-            "poster_path": "/eCua9No8HqVxGajDQrG8mvRCtJM.jpg",
-            "release_date": "2003-12-17",
-            "softcore": false,
-            "video": false,
-            "vote_average": 8.504,
-            "vote_count": 27583,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/u8DU5fkLoM5tTRukzPC31oGPxaQ.jpg",
-            "genre_ids": [
-                878,
-                12,
-                14
-            ],
-            "id": 83533,
-            "title": "Avatar: Fuoco e cenere",
-            "original_language": "en",
-            "original_title": "Avatar: Fire and Ash",
-            "overview": "In seguito alla devastante guerra contro la RDA e alla perdita del loro figlio maggiore, Jake Sully e Neytiri affrontano una nuova minaccia su Pandora: il Popolo della Cenere, una trib\u00f9 Na'vi violenta e assetata di potere guidata dagli spietati Varang. La famiglia di Jake deve lottare per la propria sopravvivenza e per il futuro di Pandora in un conflitto che li spinge ai loro limiti emotivi e fisici.",
-            "popularity": 108.043,
-            "poster_path": "/kvivMhuEuzXuaj0UMjAAmrXVvWn.jpg",
-            "release_date": "2025-12-17",
-            "softcore": false,
-            "video": false,
-            "vote_average": 7.65,
-            "vote_count": 4514,
+            "vote_average": 7.541,
+            "vote_count": 7071,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Disney+"
         },
@@ -355,13 +357,57 @@
             "original_language": "en",
             "original_title": "Runner",
             "overview": "Mentre sono impegnati in una corsa contro il tempo per portare a termine la consegna dell'unica speranza per salvare la vita di una bambina in pericolo, un ex soldato e il suo improbabile partner diventano il bersaglio di uno spietato cartello che tenta di ucciderli in tutti i modi.",
-            "popularity": 237.4458,
+            "popularity": 228.277,
             "poster_path": "/y2JldODg7WqeAZC9MRKshA2hSmq.jpg",
             "release_date": "2026-09-07",
             "softcore": false,
             "video": false,
-            "vote_average": 8.304,
-            "vote_count": 576,
+            "vote_average": 8.299,
+            "vote_count": 590,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/dgUDj84BWtW6EZzee8BkgKnjDhh.jpg",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "id": 1561726,
+            "title": "Masterplan",
+            "original_language": "en",
+            "original_title": "Masterplan",
+            "overview": "Quando un famoso ladro punta alla Gioconda, recluta due giovani sconosciuti che lo aiutino: Chiara, un'italiana esperta di crimini informatici, e Jay, uno specialista francese in esplosivi, ai quali rivela poi di essere loro padre. Dopo questa caotica riunione, la nuova famiglia deve imparare a collaborare e a cercare di non uccidersi a vicenda e riuscire a compiere il colpo del secolo.",
+            "popularity": 110.6207,
+            "poster_path": "/5xmXVd7nCK3tAo34XkO58SxUCip.jpg",
+            "release_date": "2026-10-16",
+            "softcore": false,
+            "video": false,
+            "vote_average": 7.225,
+            "vote_count": 20,
+            "media_type": "movie",
+            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+            "genre_ids": [
+                878,
+                12
+            ],
+            "id": 687163,
+            "title": "L'ultima missione: Project Hail Mary",
+            "original_language": "en",
+            "original_title": "Project Hail Mary",
+            "overview": "L\u2019insegnante di scienze Ryland Grace si sveglia su un\u2019astronave lontano anni luce da casa senza alcun ricordo di chi sia o di come sia arrivato l\u00ec. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l\u2019enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovr\u00e0 fare affidamento sulle sue conoscenze scientifiche e sulle sue capacit\u00e0 di pensare fuori dagli schemi per salvare dall\u2019estinzione la vita sulla Terra, mentre un'inaspettata amicizia gli far\u00e0 capire che non \u00e8 solo in questa impresa.",
+            "popularity": 105.8076,
+            "poster_path": "/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
+            "release_date": "2026-03-15",
+            "softcore": false,
+            "video": false,
+            "vote_average": 8.634,
+            "vote_count": 8326,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
@@ -378,80 +424,35 @@
             "original_language": "en",
             "original_title": "The Batman",
             "overview": "Quando un killer prende di mira l\u2019\u00e9lite di Gotham con una serie di malvagi stratagemmi, una scia di indizi criptici spinge il pi\u00f9 grande detective del mondo a indagare nei bassifondi, incontrando personaggi come Selina Kyle alias Catwoman, Oswald Cobblepot alias il Pinguino, Carmine Falcone e Edward Nashton alias l\u2019Enigmista. Mentre le prove iniziano a condurlo pi\u00f9 vicino alla soluzione e la portata dei piani del malfattore diventa chiara, Batman deve stringere nuove alleanze, smascherare il colpevole e rendere giustizia all\u2019abuso di potere e alla corruzione che da tempo affliggono Gotham City.",
-            "popularity": 96.3047,
+            "popularity": 89.2737,
             "poster_path": "/kfrNjwHRw0ORsPx8Scr3JJQuy1I.jpg",
             "release_date": "2022-03-01",
             "softcore": false,
             "video": false,
-            "vote_average": 7.7,
-            "vote_count": 12679,
+            "vote_average": 7.672,
+            "vote_count": 12686,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         },
         {
             "adult": false,
-            "backdrop_path": "/3UbaCMmqOd7mca4Y5DOzY2ZVTyX.jpg",
-            "genre_ids": [
-                28,
-                12,
-                14
-            ],
-            "id": 122917,
-            "title": "Lo Hobbit: La battaglia delle cinque armate",
-            "original_language": "en",
-            "original_title": "The Hobbit: The Battle of the Five Armies",
-            "overview": "Smaug ha deciso di scatenarsi dando fuoco a Pontelagolungo e ai suoi abitanti. Mentre i nani, inermi, guardano la scena dalla montagna, in un delirio di fughe disperate solo Bard decide di combattere il drago riuscendo in extremis a penetrare l'unico punto scoperto della sua dura scorza con una sola grande freccia. Sconfitta la creatura si apre uno scenario ancora pi\u00f9 truce: la montagna \u00e8 libera e il tesoro dei nani incustodito, la notizia si sparge in fretta e, vista la bramosia di Thorin nel tenere l'oro per s\u00e8, alle porte si prepara un conflitto tra l'esercito degli elfi e degli uomini (desiderosi di vedere rispettata la promessa fattagli dal nano ora \"re sotto la montagna\"), quello dei nani accorsi a difendere il loro simile e il grande nemico di Thorin, desideroso d'oro e vendetta. In mezzo a tutto ci\u00f2 Bilbo ha rubato la bramata Arkengemma e deve decidere che farne.",
-            "popularity": 85.5457,
-            "poster_path": "/A2RkCwo2gcWX6OXL2B46eOU7Wv6.jpg",
-            "release_date": "2014-12-10",
-            "softcore": false,
-            "video": false,
-            "vote_average": 7.339,
-            "vote_count": 15854,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-            "genre_ids": [
-                878,
-                12
-            ],
-            "id": 687163,
-            "title": "L'ultima missione: Project Hail Mary",
-            "original_language": "en",
-            "original_title": "Project Hail Mary",
-            "overview": "L\u2019insegnante di scienze Ryland Grace si sveglia su un\u2019astronave lontano anni luce da casa senza alcun ricordo di chi sia o di come sia arrivato l\u00ec. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l\u2019enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovr\u00e0 fare affidamento sulle sue conoscenze scientifiche e sulle sue capacit\u00e0 di pensare fuori dagli schemi per salvare dall\u2019estinzione la vita sulla Terra, mentre un'inaspettata amicizia gli far\u00e0 capire che non \u00e8 solo in questa impresa.",
-            "popularity": 101.9486,
-            "poster_path": "/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
-            "release_date": "2026-03-15",
-            "softcore": false,
-            "video": false,
-            "vote_average": 8.634,
-            "vote_count": 8312,
-            "media_type": "movie",
-            "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
-        },
-        {
-            "adult": false,
-            "backdrop_path": "/o7Oy9Gbx1CCyaweL8xUhtMW4Puq.jpg",
+            "backdrop_path": "/mqYqKvrKTgMvK50VtEDZlYFsnHz.jpg",
             "genre_ids": [
                 10749,
-                35
+                18
             ],
-            "id": 1032863,
-            "title": "The Love Hypothesis: Il teorema dell'amore",
+            "id": 1381078,
+            "title": "L'amore della tua vita",
             "original_language": "en",
-            "original_title": "The Love Hypothesis",
-            "overview": "Basato sul best-seller del New York Times, The Love Hypothesis: Il teorema dell'amore racconta la storia di Olive, una dottoranda che bacia impulsivamente il professore pi\u00f9 minaccioso del suo dipartimento, Adam Carlsen. Il bisogno di entrambi di una falsa relazione si trasforma in un esperimento di chimica che potrebbe in realt\u00e0 risolversi nell'amore.",
-            "popularity": 76.3817,
-            "poster_path": "/5wJMjjorqHRe4cNpB2dgiUVvveF.jpg",
-            "release_date": "2026-09-23",
+            "original_title": "Love of Your Life",
+            "overview": "L'amore della tua vita segue Maya (Margaret Qualley), il cui incontro casuale con Charlie (Gabriel Basso) d\u00e0 inizio a un amore travolgente e a un futuro impensabile. Quando quel futuro viene sconvolto, Maya si ritrova catapultata in una nuova vita, che la costringe a confrontarsi con chi \u00e8, con cosa vuole e con la possibilit\u00e0 di amare di nuovo.",
+            "popularity": 83.0413,
+            "poster_path": "/z10uWG4eeuDk72IcQe3niXsQCik.jpg",
+            "release_date": "2026-10-07",
             "softcore": false,
             "video": false,
-            "vote_average": 8.018,
-            "vote_count": 607,
+            "vote_average": 6.814,
+            "vote_count": 51,
             "media_type": "movie",
             "category_prefix": "\ud83c\udfc6 I Pi\u00f9 Visti su Prime Video"
         }
@@ -473,15 +474,6 @@
                 "url": "https://vixcloud.co/playlist/705669?b=1&token=659f076d02895c0532cb7cf55e7f6ced&expires=1795279380&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/gPC1X3mwqwX50Ye3qwwPt7iW3Ma.jpg",
                 "plot": "L\u2019insegnante di scienze Ryland Grace si sveglia su un\u2019astronave lontano anni luce da casa senza alcun ricordo di chi sia o di come sia arrivato l\u00ec. Con il riaffiorare della sua memoria, torna alla luce lo scopo della sua missione: risolvere l\u2019enigma della misteriosa sostanza che sta causando il collasso del Sole. Dovr\u00e0 fare affidamento sulle sue conoscenze scientifiche e sulle sue capacit\u00e0 di pensare fuori dagli schemi per salvare dall\u2019estinzione la vita sulla Terra, mentre un'inaspettata amicizia gli far\u00e0 capire che non \u00e8 solo in questa impresa."
-            }
-        ],
-        "1032863": [
-            {
-                "ep_id": "1032863",
-                "ep_title": "The Love Hypothesis: Il teorema dell'amore (2026) - \u2b50 8.9",
-                "url": "https://vixcloud.co/playlist/790058?b=1&token=8fc1021b9029bfa93e7fa259c09e6817&expires=1795365015&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/5wJMjjorqHRe4cNpB2dgiUVvveF.jpg",
-                "plot": "Basato sul best-seller del New York Times, The Love Hypothesis: Il teorema dell'amore racconta la storia di Olive, una dottoranda che bacia impulsivamente il professore pi\u00f9 minaccioso del suo dipartimento, Adam Carlsen. Il bisogno di entrambi di una falsa relazione si trasforma in un esperimento di chimica che potrebbe in realt\u00e0 risolversi nell'amore."
             }
         ],
         "1081003": [
@@ -601,15 +593,6 @@
                 "plot": "Un uomo molto determinato intraprende un\u2019impresa ad alto rischio, sfidando ostacoli apparentemente insormontabili, per realizzare il suo sogno: essere il primo a raggiungere la vetta del Monte Everest."
             }
         ],
-        "1623256": [
-            {
-                "ep_id": "1623256",
-                "ep_title": "Stormen (2026) - \u2b50 8.3",
-                "url": "https://vixcloud.co/playlist/794328?token=5de37daa219494b59df02a5856d836c5&expires=1797339963&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/kjAsuaDcNsemYTQ8tUorpVE1FJb.jpg",
-                "plot": "Quando una tempesta intrappola vecchi compagni universitari in un lussuoso lodge, la loro festa di compleanno civile si trasforma in un ciclone di tradimenti, rancori e caos senza filtri."
-            }
-        ],
         "414906": [
             {
                 "ep_id": "414906",
@@ -628,15 +611,6 @@
                 "plot": "Le forze di Sauron hanno attaccato la capitale di Gondor, Minas Tirith, nel suo assedio finale contro l'umanit\u00e0. Tenuto da un debole sovrintendente, quello che una volta era un fastoso regno non ha mai avuto cos\u00ec bisogno del proprio re. Mentre Gandalf tenta disperatamente di spingere lo smembrato esercito di Gondor ad agire, Th\u00e8oden si unisce ai guerrieri di Rohan per combattere assieme a loro. Pieno di coraggio e di appassionata lealt\u00e0, l'esercito degli umani non riesce per\u00f2 a tener testa alle numerosissime legioni nemiche che giungono su tutto il regno. Ogni vittoria \u00e8 accompagnata da un grande sacrificio. Malgrado le numerose perdite, la Compagnia si lancia verso la pi\u00f9 grande battaglia mai affrontata, unita dall'unico scopo di riuscire a tenere Sauron distratto e dare a Frodo una occasione per portare a termine la sua spedizione..."
             }
         ],
-        "122917": [
-            {
-                "ep_id": "122917",
-                "ep_title": "Lo Hobbit: La battaglia delle cinque armate (2014) - \u2b50 7.3",
-                "url": "https://vixcloud.co/playlist/597193?token=64c6555448be424c787feed07ff25612&expires=1797339970&h=1&scz=1&lang=it",
-                "poster": "https://image.tmdb.org/t/p/w500/A2RkCwo2gcWX6OXL2B46eOU7Wv6.jpg",
-                "plot": "Smaug ha deciso di scatenarsi dando fuoco a Pontelagolungo e ai suoi abitanti. Mentre i nani, inermi, guardano la scena dalla montagna, in un delirio di fughe disperate solo Bard decide di combattere il drago riuscendo in extremis a penetrare l'unico punto scoperto della sua dura scorza con una sola grande freccia. Sconfitta la creatura si apre uno scenario ancora pi\u00f9 truce: la montagna \u00e8 libera e il tesoro dei nani incustodito, la notizia si sparge in fretta e, vista la bramosia di Thorin nel tenere l'oro per s\u00e8, alle porte si prepara un conflitto tra l'esercito degli elfi e degli uomini (desiderosi di vedere rispettata la promessa fattagli dal nano ora 're sotto la montagna'), quello dei nani accorsi a difendere il loro simile e il grande nemico di Thorin, desideroso d'oro e vendetta. In mezzo a tutto ci\u00f2 Bilbo ha rubato la bramata Arkengemma e deve decidere che farne."
-            }
-        ],
         "299537": [
             {
                 "ep_id": "299537",
@@ -653,6 +627,42 @@
                 "url": "https://vixcloud.co/playlist/788744?token=b5175636b309a32b23bb74570896b1b1&expires=1797341984&h=1&scz=1&lang=it",
                 "poster": "https://image.tmdb.org/t/p/w500/Ag2C8cklZV7BjllxZ6QF4ZfOvEz.jpg",
                 "plot": "Un tempo fiorente casa del colosso farmaceutico Umbrella Corporation, Raccoon City, \u00e8 ora una morente citt\u00e0 del Midwest americano. L\u2019esodo della compagnia ha trasformato la citt\u00e0 in una landa desolata\u2026 dove un enorme male cova sotto alla superficie. E quando questo male si scatena, i cittadini cambiano\u2026 per sempre. E un piccolo manipolo di sopravvissuti dovr\u00e0 lavorare insieme per smascherare la verit\u00e0 dietro la Umbrella e riuscire a sopravvivere alla nottata."
+            }
+        ],
+        "1487317": [
+            {
+                "ep_id": "1487317",
+                "ep_title": "Terapia creativa (2026) - \u2b50 7.5",
+                "url": "https://vixcloud.co/playlist/794506?b=1&token=a0628efa985fc39464c38299777877f3&expires=1797422610&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/vaok2Dm7suKG2gEY2cKBXL4OMYf.jpg",
+                "plot": "Un famoso psicoanalista, deluso dalla terapia tradizionale, inizia a intervenire segretamente nella vita dei suoi pazienti, ottenendo risultati notevoli, fino a quando uno scrittore bloccato dalla creativit\u00e0 entra nel suo studio."
+            }
+        ],
+        "1084242": [
+            {
+                "ep_id": "1084242",
+                "ep_title": "Zootropolis 2 (2025) - \u2b50 7.7",
+                "url": "https://vixcloud.co/playlist/640562?token=52c6d7bc1d635f58bb06e4b846cedeae&expires=1797422613&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/lVesXbaSnCh0e27punAv4ZKWkxk.jpg",
+                "plot": "Dopo aver risolto il caso pi\u00f9 importante nella storia di Zootropolis, i poliziotti alle prime armi Judy Hopps e Nick Wilde scoprono che la loro collaborazione non \u00e8 cos\u00ec solida come pensavano quando il capo Bogo ordina loro di unirsi al programma di consulenza 'Partners in Crisis'. Ma non ci vuole molto perch\u00e9 la loro collaborazione venga messa a dura prova quando si ritrovano sulle tracce tortuose di un mistero legato all'arrivo di un serpente velenoso nella metropoli degli animali."
+            }
+        ],
+        "1381078": [
+            {
+                "ep_id": "1381078",
+                "ep_title": "L'amore della tua vita (2026) - \u2b50 6.8",
+                "url": "https://vixcloud.co/playlist/794159?b=1&token=76410053a362e87aabd47574d3af653c&expires=1797422614&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/z10uWG4eeuDk72IcQe3niXsQCik.jpg",
+                "plot": "L'amore della tua vita segue Maya (Margaret Qualley), il cui incontro casuale con Charlie (Gabriel Basso) d\u00e0 inizio a un amore travolgente e a un futuro impensabile. Quando quel futuro viene sconvolto, Maya si ritrova catapultata in una nuova vita, che la costringe a confrontarsi con chi \u00e8, con cosa vuole e con la possibilit\u00e0 di amare di nuovo."
+            }
+        ],
+        "363088": [
+            {
+                "ep_id": "363088",
+                "ep_title": "Ant-Man and the Wasp (2018) - \u2b50 6.9",
+                "url": "https://vixcloud.co/playlist/780240?token=d542b39afcddcc599a52bb1ab0e5d211&expires=1797422618&h=1&scz=1&lang=it",
+                "poster": "https://image.tmdb.org/t/p/w500/lNs2tFWH7OMJzhF2sLBsQA2MNrM.jpg",
+                "plot": "Alle prese con la ricerca di un equilibrio tra la sua vita privata e le responsabilit\u00e0 di supereroe, Scott Lang si ritrova ancora una volta ad indossare i panni di Ant-Man e insieme a Hope van Dyne, in arte Wasp, andr\u00e0 alla scoperta di incredibili segreti del passato."
             }
         ]
     }
